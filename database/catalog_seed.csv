@@ -1,0 +1,521 @@
+﻿book_id,title,author,category,catalog_code,year,publisher,shelf,replacement_value,cover_path,source,copy_count
+B0019,Akuntansi Sektor Publik: Pengantar dan Kerangka Konseptual,Data katalog rancangan,Akuntansi,SIM-000019,2026,Koleksi rancangan,Rak A-01,75000,./covers/B0019.svg,Katalog rancangan,2
+B0020,Akuntansi Sektor Publik: Perencanaan dan Strategi,Data katalog rancangan,Akuntansi,SIM-000020,2026,Koleksi rancangan,Rak A-02,75000,./covers/B0020.svg,Katalog rancangan,3
+B0021,Akuntansi Sektor Publik: Pencatatan dan Dokumentasi,Data katalog rancangan,Akuntansi,SIM-000021,2026,Koleksi rancangan,Rak A-03,75000,./covers/B0021.svg,Katalog rancangan,4
+B0022,Akuntansi Sektor Publik: Analisis Data,Data katalog rancangan,Akuntansi,SIM-000022,2026,Koleksi rancangan,Rak A-04,75000,./covers/B0022.svg,Katalog rancangan,2
+B0023,Akuntansi Sektor Publik: Pengukuran Kinerja,Data katalog rancangan,Akuntansi,SIM-000023,2026,Koleksi rancangan,Rak A-05,75000,./covers/B0023.svg,Katalog rancangan,3
+B0024,Akuntansi Sektor Publik: Regulasi dan Kepatuhan,Data katalog rancangan,Akuntansi,SIM-000024,2026,Koleksi rancangan,Rak A-06,75000,./covers/B0024.svg,Katalog rancangan,4
+B0025,Akuntansi Sektor Publik: Studi Kasus Indonesia,Data katalog rancangan,Akuntansi,SIM-000025,2026,Koleksi rancangan,Rak A-07,75000,./covers/B0025.svg,Katalog rancangan,2
+B0026,Akuntansi Sektor Publik: Praktik Lapangan,Data katalog rancangan,Akuntansi,SIM-000026,2026,Koleksi rancangan,Rak A-08,75000,./covers/B0026.svg,Katalog rancangan,3
+B0027,Akuntansi Sektor Publik: Manajemen Proses,Data katalog rancangan,Akuntansi,SIM-000027,2026,Koleksi rancangan,Rak A-09,75000,./covers/B0027.svg,Katalog rancangan,4
+B0028,Akuntansi Sektor Publik: Pengendalian dan Pengawasan,Data katalog rancangan,Akuntansi,SIM-000028,2026,Koleksi rancangan,Rak A-10,75000,./covers/B0028.svg,Katalog rancangan,2
+B0029,Akuntansi Sektor Publik: Pelaporan,Data katalog rancangan,Akuntansi,SIM-000029,2026,Koleksi rancangan,Rak A-11,75000,./covers/B0029.svg,Katalog rancangan,3
+B0030,Akuntansi Sektor Publik: Inovasi Digital,Data katalog rancangan,Akuntansi,SIM-000030,2026,Koleksi rancangan,Rak A-12,75000,./covers/B0030.svg,Katalog rancangan,4
+B0031,Akuntansi Sektor Publik: Metode Kuantitatif,Data katalog rancangan,Akuntansi,SIM-000031,2026,Koleksi rancangan,Rak A-13,75000,./covers/B0031.svg,Katalog rancangan,2
+B0032,Akuntansi Sektor Publik: Metode Kualitatif,Data katalog rancangan,Akuntansi,SIM-000032,2026,Koleksi rancangan,Rak A-14,75000,./covers/B0032.svg,Katalog rancangan,3
+B0033,Akuntansi Sektor Publik: Manajemen Risiko,Data katalog rancangan,Akuntansi,SIM-000033,2026,Koleksi rancangan,Rak A-15,75000,./covers/B0033.svg,Katalog rancangan,4
+B0034,Akuntansi Sektor Publik: Evaluasi Kebijakan,Data katalog rancangan,Akuntansi,SIM-000034,2026,Koleksi rancangan,Rak A-16,75000,./covers/B0034.svg,Katalog rancangan,2
+B0035,Akuntansi Sektor Publik: Transparansi dan Akuntabilitas,Data katalog rancangan,Akuntansi,SIM-000035,2026,Koleksi rancangan,Rak A-17,75000,./covers/B0035.svg,Katalog rancangan,3
+B0036,Akuntansi Sektor Publik: Pelayanan dan Pengguna,Data katalog rancangan,Akuntansi,SIM-000036,2026,Koleksi rancangan,Rak A-18,75000,./covers/B0036.svg,Katalog rancangan,4
+B0037,Akuntansi Sektor Publik: Perancangan Sistem,Data katalog rancangan,Akuntansi,SIM-000037,2026,Koleksi rancangan,Rak A-19,75000,./covers/B0037.svg,Katalog rancangan,2
+B0038,Akuntansi Sektor Publik: Isu Kontemporer,Data katalog rancangan,Akuntansi,SIM-000038,2026,Koleksi rancangan,Rak A-20,75000,./covers/B0038.svg,Katalog rancangan,3
+B0039,Perpajakan: Pengantar dan Kerangka Konseptual,Data katalog rancangan,Perpajakan,SIM-000039,2026,Koleksi rancangan,Rak B-01,90000,./covers/B0039.svg,Katalog rancangan,2
+B0040,Perpajakan: Perencanaan dan Strategi,Data katalog rancangan,Perpajakan,SIM-000040,2026,Koleksi rancangan,Rak B-02,90000,./covers/B0040.svg,Katalog rancangan,3
+B0041,Perpajakan: Pencatatan dan Dokumentasi,Data katalog rancangan,Perpajakan,SIM-000041,2026,Koleksi rancangan,Rak B-03,90000,./covers/B0041.svg,Katalog rancangan,4
+B0042,Perpajakan: Analisis Data,Data katalog rancangan,Perpajakan,SIM-000042,2026,Koleksi rancangan,Rak B-04,90000,./covers/B0042.svg,Katalog rancangan,2
+B0043,Perpajakan: Pengukuran Kinerja,Data katalog rancangan,Perpajakan,SIM-000043,2026,Koleksi rancangan,Rak B-05,90000,./covers/B0043.svg,Katalog rancangan,3
+B0044,Perpajakan: Regulasi dan Kepatuhan,Data katalog rancangan,Perpajakan,SIM-000044,2026,Koleksi rancangan,Rak B-06,90000,./covers/B0044.svg,Katalog rancangan,4
+B0045,Perpajakan: Studi Kasus Indonesia,Data katalog rancangan,Perpajakan,SIM-000045,2026,Koleksi rancangan,Rak B-07,90000,./covers/B0045.svg,Katalog rancangan,2
+B0046,Perpajakan: Praktik Lapangan,Data katalog rancangan,Perpajakan,SIM-000046,2026,Koleksi rancangan,Rak B-08,90000,./covers/B0046.svg,Katalog rancangan,3
+B0047,Perpajakan: Manajemen Proses,Data katalog rancangan,Perpajakan,SIM-000047,2026,Koleksi rancangan,Rak B-09,90000,./covers/B0047.svg,Katalog rancangan,4
+B0048,Perpajakan: Pengendalian dan Pengawasan,Data katalog rancangan,Perpajakan,SIM-000048,2026,Koleksi rancangan,Rak B-10,90000,./covers/B0048.svg,Katalog rancangan,2
+B0049,Perpajakan: Pelaporan,Data katalog rancangan,Perpajakan,SIM-000049,2026,Koleksi rancangan,Rak B-11,90000,./covers/B0049.svg,Katalog rancangan,3
+B0050,Perpajakan: Inovasi Digital,Data katalog rancangan,Perpajakan,SIM-000050,2026,Koleksi rancangan,Rak B-12,90000,./covers/B0050.svg,Katalog rancangan,4
+B0051,Perpajakan: Metode Kuantitatif,Data katalog rancangan,Perpajakan,SIM-000051,2026,Koleksi rancangan,Rak B-13,90000,./covers/B0051.svg,Katalog rancangan,2
+B0052,Perpajakan: Metode Kualitatif,Data katalog rancangan,Perpajakan,SIM-000052,2026,Koleksi rancangan,Rak B-14,90000,./covers/B0052.svg,Katalog rancangan,3
+B0053,Perpajakan: Manajemen Risiko,Data katalog rancangan,Perpajakan,SIM-000053,2026,Koleksi rancangan,Rak B-15,90000,./covers/B0053.svg,Katalog rancangan,4
+B0054,Perpajakan: Evaluasi Kebijakan,Data katalog rancangan,Perpajakan,SIM-000054,2026,Koleksi rancangan,Rak B-16,90000,./covers/B0054.svg,Katalog rancangan,2
+B0055,Perpajakan: Transparansi dan Akuntabilitas,Data katalog rancangan,Perpajakan,SIM-000055,2026,Koleksi rancangan,Rak B-17,90000,./covers/B0055.svg,Katalog rancangan,3
+B0056,Perpajakan: Pelayanan dan Pengguna,Data katalog rancangan,Perpajakan,SIM-000056,2026,Koleksi rancangan,Rak B-18,90000,./covers/B0056.svg,Katalog rancangan,4
+B0057,Perpajakan: Perancangan Sistem,Data katalog rancangan,Perpajakan,SIM-000057,2026,Koleksi rancangan,Rak B-19,90000,./covers/B0057.svg,Katalog rancangan,2
+B0058,Perpajakan: Isu Kontemporer,Data katalog rancangan,Perpajakan,SIM-000058,2026,Koleksi rancangan,Rak B-20,90000,./covers/B0058.svg,Katalog rancangan,3
+B0059,Keuangan Negara: Pengantar dan Kerangka Konseptual,Data katalog rancangan,Keuangan Publik,SIM-000059,2026,Koleksi rancangan,Rak C-01,105000,./covers/B0059.svg,Katalog rancangan,2
+B0060,Keuangan Negara: Perencanaan dan Strategi,Data katalog rancangan,Keuangan Publik,SIM-000060,2026,Koleksi rancangan,Rak C-02,105000,./covers/B0060.svg,Katalog rancangan,3
+B0061,Keuangan Negara: Pencatatan dan Dokumentasi,Data katalog rancangan,Keuangan Publik,SIM-000061,2026,Koleksi rancangan,Rak C-03,105000,./covers/B0061.svg,Katalog rancangan,4
+B0062,Keuangan Negara: Analisis Data,Data katalog rancangan,Keuangan Publik,SIM-000062,2026,Koleksi rancangan,Rak C-04,105000,./covers/B0062.svg,Katalog rancangan,2
+B0063,Keuangan Negara: Pengukuran Kinerja,Data katalog rancangan,Keuangan Publik,SIM-000063,2026,Koleksi rancangan,Rak C-05,105000,./covers/B0063.svg,Katalog rancangan,3
+B0064,Keuangan Negara: Regulasi dan Kepatuhan,Data katalog rancangan,Keuangan Publik,SIM-000064,2026,Koleksi rancangan,Rak C-06,105000,./covers/B0064.svg,Katalog rancangan,4
+B0065,Keuangan Negara: Studi Kasus Indonesia,Data katalog rancangan,Keuangan Publik,SIM-000065,2026,Koleksi rancangan,Rak C-07,105000,./covers/B0065.svg,Katalog rancangan,2
+B0066,Keuangan Negara: Praktik Lapangan,Data katalog rancangan,Keuangan Publik,SIM-000066,2026,Koleksi rancangan,Rak C-08,105000,./covers/B0066.svg,Katalog rancangan,3
+B0067,Keuangan Negara: Manajemen Proses,Data katalog rancangan,Keuangan Publik,SIM-000067,2026,Koleksi rancangan,Rak C-09,105000,./covers/B0067.svg,Katalog rancangan,4
+B0068,Keuangan Negara: Pengendalian dan Pengawasan,Data katalog rancangan,Keuangan Publik,SIM-000068,2026,Koleksi rancangan,Rak C-10,105000,./covers/B0068.svg,Katalog rancangan,2
+B0069,Keuangan Negara: Pelaporan,Data katalog rancangan,Keuangan Publik,SIM-000069,2026,Koleksi rancangan,Rak C-11,105000,./covers/B0069.svg,Katalog rancangan,3
+B0070,Keuangan Negara: Inovasi Digital,Data katalog rancangan,Keuangan Publik,SIM-000070,2026,Koleksi rancangan,Rak C-12,105000,./covers/B0070.svg,Katalog rancangan,4
+B0071,Keuangan Negara: Metode Kuantitatif,Data katalog rancangan,Keuangan Publik,SIM-000071,2026,Koleksi rancangan,Rak C-13,105000,./covers/B0071.svg,Katalog rancangan,2
+B0072,Keuangan Negara: Metode Kualitatif,Data katalog rancangan,Keuangan Publik,SIM-000072,2026,Koleksi rancangan,Rak C-14,105000,./covers/B0072.svg,Katalog rancangan,3
+B0073,Keuangan Negara: Manajemen Risiko,Data katalog rancangan,Keuangan Publik,SIM-000073,2026,Koleksi rancangan,Rak C-15,105000,./covers/B0073.svg,Katalog rancangan,4
+B0074,Keuangan Negara: Evaluasi Kebijakan,Data katalog rancangan,Keuangan Publik,SIM-000074,2026,Koleksi rancangan,Rak C-16,105000,./covers/B0074.svg,Katalog rancangan,2
+B0075,Keuangan Negara: Transparansi dan Akuntabilitas,Data katalog rancangan,Keuangan Publik,SIM-000075,2026,Koleksi rancangan,Rak C-17,105000,./covers/B0075.svg,Katalog rancangan,3
+B0076,Keuangan Negara: Pelayanan dan Pengguna,Data katalog rancangan,Keuangan Publik,SIM-000076,2026,Koleksi rancangan,Rak C-18,105000,./covers/B0076.svg,Katalog rancangan,4
+B0077,Keuangan Negara: Perancangan Sistem,Data katalog rancangan,Keuangan Publik,SIM-000077,2026,Koleksi rancangan,Rak C-19,105000,./covers/B0077.svg,Katalog rancangan,2
+B0078,Keuangan Negara: Isu Kontemporer,Data katalog rancangan,Keuangan Publik,SIM-000078,2026,Koleksi rancangan,Rak C-20,105000,./covers/B0078.svg,Katalog rancangan,3
+B0079,Audit Sektor Publik: Pengantar dan Kerangka Konseptual,Data katalog rancangan,Audit,SIM-000079,2026,Koleksi rancangan,Rak D-01,120000,./covers/B0079.svg,Katalog rancangan,2
+B0080,Audit Sektor Publik: Perencanaan dan Strategi,Data katalog rancangan,Audit,SIM-000080,2026,Koleksi rancangan,Rak D-02,120000,./covers/B0080.svg,Katalog rancangan,3
+B0081,Audit Sektor Publik: Pencatatan dan Dokumentasi,Data katalog rancangan,Audit,SIM-000081,2026,Koleksi rancangan,Rak D-03,120000,./covers/B0081.svg,Katalog rancangan,4
+B0082,Audit Sektor Publik: Analisis Data,Data katalog rancangan,Audit,SIM-000082,2026,Koleksi rancangan,Rak D-04,120000,./covers/B0082.svg,Katalog rancangan,2
+B0083,Audit Sektor Publik: Pengukuran Kinerja,Data katalog rancangan,Audit,SIM-000083,2026,Koleksi rancangan,Rak D-05,120000,./covers/B0083.svg,Katalog rancangan,3
+B0084,Audit Sektor Publik: Regulasi dan Kepatuhan,Data katalog rancangan,Audit,SIM-000084,2026,Koleksi rancangan,Rak D-06,120000,./covers/B0084.svg,Katalog rancangan,4
+B0085,Audit Sektor Publik: Studi Kasus Indonesia,Data katalog rancangan,Audit,SIM-000085,2026,Koleksi rancangan,Rak D-07,120000,./covers/B0085.svg,Katalog rancangan,2
+B0086,Audit Sektor Publik: Praktik Lapangan,Data katalog rancangan,Audit,SIM-000086,2026,Koleksi rancangan,Rak D-08,120000,./covers/B0086.svg,Katalog rancangan,3
+B0087,Audit Sektor Publik: Manajemen Proses,Data katalog rancangan,Audit,SIM-000087,2026,Koleksi rancangan,Rak D-09,120000,./covers/B0087.svg,Katalog rancangan,4
+B0088,Audit Sektor Publik: Pengendalian dan Pengawasan,Data katalog rancangan,Audit,SIM-000088,2026,Koleksi rancangan,Rak D-10,120000,./covers/B0088.svg,Katalog rancangan,2
+B0089,Audit Sektor Publik: Pelaporan,Data katalog rancangan,Audit,SIM-000089,2026,Koleksi rancangan,Rak D-11,120000,./covers/B0089.svg,Katalog rancangan,3
+B0090,Audit Sektor Publik: Inovasi Digital,Data katalog rancangan,Audit,SIM-000090,2026,Koleksi rancangan,Rak D-12,120000,./covers/B0090.svg,Katalog rancangan,4
+B0091,Audit Sektor Publik: Metode Kuantitatif,Data katalog rancangan,Audit,SIM-000091,2026,Koleksi rancangan,Rak D-13,120000,./covers/B0091.svg,Katalog rancangan,2
+B0092,Audit Sektor Publik: Metode Kualitatif,Data katalog rancangan,Audit,SIM-000092,2026,Koleksi rancangan,Rak D-14,120000,./covers/B0092.svg,Katalog rancangan,3
+B0093,Audit Sektor Publik: Manajemen Risiko,Data katalog rancangan,Audit,SIM-000093,2026,Koleksi rancangan,Rak D-15,120000,./covers/B0093.svg,Katalog rancangan,4
+B0094,Audit Sektor Publik: Evaluasi Kebijakan,Data katalog rancangan,Audit,SIM-000094,2026,Koleksi rancangan,Rak D-16,120000,./covers/B0094.svg,Katalog rancangan,2
+B0095,Audit Sektor Publik: Transparansi dan Akuntabilitas,Data katalog rancangan,Audit,SIM-000095,2026,Koleksi rancangan,Rak D-17,120000,./covers/B0095.svg,Katalog rancangan,3
+B0096,Audit Sektor Publik: Pelayanan dan Pengguna,Data katalog rancangan,Audit,SIM-000096,2026,Koleksi rancangan,Rak D-18,120000,./covers/B0096.svg,Katalog rancangan,4
+B0097,Audit Sektor Publik: Perancangan Sistem,Data katalog rancangan,Audit,SIM-000097,2026,Koleksi rancangan,Rak D-19,120000,./covers/B0097.svg,Katalog rancangan,2
+B0098,Audit Sektor Publik: Isu Kontemporer,Data katalog rancangan,Audit,SIM-000098,2026,Koleksi rancangan,Rak D-20,120000,./covers/B0098.svg,Katalog rancangan,3
+B0099,Sistem Informasi Akuntansi: Pengantar dan Kerangka Konseptual,Data katalog rancangan,Sistem Informasi,SIM-000099,2026,Koleksi rancangan,Rak E-01,135000,./covers/B0099.svg,Katalog rancangan,2
+B0100,Sistem Informasi Akuntansi: Perencanaan dan Strategi,Data katalog rancangan,Sistem Informasi,SIM-000100,2026,Koleksi rancangan,Rak E-02,135000,./covers/B0100.svg,Katalog rancangan,3
+B0101,Sistem Informasi Akuntansi: Pencatatan dan Dokumentasi,Data katalog rancangan,Sistem Informasi,SIM-000101,2026,Koleksi rancangan,Rak E-03,135000,./covers/B0101.svg,Katalog rancangan,4
+B0102,Sistem Informasi Akuntansi: Analisis Data,Data katalog rancangan,Sistem Informasi,SIM-000102,2026,Koleksi rancangan,Rak E-04,135000,./covers/B0102.svg,Katalog rancangan,2
+B0103,Sistem Informasi Akuntansi: Pengukuran Kinerja,Data katalog rancangan,Sistem Informasi,SIM-000103,2026,Koleksi rancangan,Rak E-05,135000,./covers/B0103.svg,Katalog rancangan,3
+B0104,Sistem Informasi Akuntansi: Regulasi dan Kepatuhan,Data katalog rancangan,Sistem Informasi,SIM-000104,2026,Koleksi rancangan,Rak E-06,135000,./covers/B0104.svg,Katalog rancangan,4
+B0105,Sistem Informasi Akuntansi: Studi Kasus Indonesia,Data katalog rancangan,Sistem Informasi,SIM-000105,2026,Koleksi rancangan,Rak E-07,135000,./covers/B0105.svg,Katalog rancangan,2
+B0106,Sistem Informasi Akuntansi: Praktik Lapangan,Data katalog rancangan,Sistem Informasi,SIM-000106,2026,Koleksi rancangan,Rak E-08,135000,./covers/B0106.svg,Katalog rancangan,3
+B0107,Sistem Informasi Akuntansi: Manajemen Proses,Data katalog rancangan,Sistem Informasi,SIM-000107,2026,Koleksi rancangan,Rak E-09,135000,./covers/B0107.svg,Katalog rancangan,4
+B0108,Sistem Informasi Akuntansi: Pengendalian dan Pengawasan,Data katalog rancangan,Sistem Informasi,SIM-000108,2026,Koleksi rancangan,Rak E-10,135000,./covers/B0108.svg,Katalog rancangan,2
+B0109,Sistem Informasi Akuntansi: Pelaporan,Data katalog rancangan,Sistem Informasi,SIM-000109,2026,Koleksi rancangan,Rak E-11,135000,./covers/B0109.svg,Katalog rancangan,3
+B0110,Sistem Informasi Akuntansi: Inovasi Digital,Data katalog rancangan,Sistem Informasi,SIM-000110,2026,Koleksi rancangan,Rak E-12,135000,./covers/B0110.svg,Katalog rancangan,4
+B0111,Sistem Informasi Akuntansi: Metode Kuantitatif,Data katalog rancangan,Sistem Informasi,SIM-000111,2026,Koleksi rancangan,Rak E-13,135000,./covers/B0111.svg,Katalog rancangan,2
+B0112,Sistem Informasi Akuntansi: Metode Kualitatif,Data katalog rancangan,Sistem Informasi,SIM-000112,2026,Koleksi rancangan,Rak E-14,135000,./covers/B0112.svg,Katalog rancangan,3
+B0113,Sistem Informasi Akuntansi: Manajemen Risiko,Data katalog rancangan,Sistem Informasi,SIM-000113,2026,Koleksi rancangan,Rak E-15,135000,./covers/B0113.svg,Katalog rancangan,4
+B0114,Sistem Informasi Akuntansi: Evaluasi Kebijakan,Data katalog rancangan,Sistem Informasi,SIM-000114,2026,Koleksi rancangan,Rak E-16,135000,./covers/B0114.svg,Katalog rancangan,2
+B0115,Sistem Informasi Akuntansi: Transparansi dan Akuntabilitas,Data katalog rancangan,Sistem Informasi,SIM-000115,2026,Koleksi rancangan,Rak E-17,135000,./covers/B0115.svg,Katalog rancangan,3
+B0116,Sistem Informasi Akuntansi: Pelayanan dan Pengguna,Data katalog rancangan,Sistem Informasi,SIM-000116,2026,Koleksi rancangan,Rak E-18,135000,./covers/B0116.svg,Katalog rancangan,4
+B0117,Sistem Informasi Akuntansi: Perancangan Sistem,Data katalog rancangan,Sistem Informasi,SIM-000117,2026,Koleksi rancangan,Rak E-19,135000,./covers/B0117.svg,Katalog rancangan,2
+B0118,Sistem Informasi Akuntansi: Isu Kontemporer,Data katalog rancangan,Sistem Informasi,SIM-000118,2026,Koleksi rancangan,Rak E-20,135000,./covers/B0118.svg,Katalog rancangan,3
+B0119,Manajemen Aset Publik: Pengantar dan Kerangka Konseptual,Data katalog rancangan,Manajemen Aset,SIM-000119,2026,Koleksi rancangan,Rak F-01,150000,./covers/B0119.svg,Katalog rancangan,2
+B0120,Manajemen Aset Publik: Perencanaan dan Strategi,Data katalog rancangan,Manajemen Aset,SIM-000120,2026,Koleksi rancangan,Rak F-02,150000,./covers/B0120.svg,Katalog rancangan,3
+B0121,Manajemen Aset Publik: Pencatatan dan Dokumentasi,Data katalog rancangan,Manajemen Aset,SIM-000121,2026,Koleksi rancangan,Rak F-03,150000,./covers/B0121.svg,Katalog rancangan,4
+B0122,Manajemen Aset Publik: Analisis Data,Data katalog rancangan,Manajemen Aset,SIM-000122,2026,Koleksi rancangan,Rak F-04,150000,./covers/B0122.svg,Katalog rancangan,2
+B0123,Manajemen Aset Publik: Pengukuran Kinerja,Data katalog rancangan,Manajemen Aset,SIM-000123,2026,Koleksi rancangan,Rak F-05,150000,./covers/B0123.svg,Katalog rancangan,3
+B0124,Manajemen Aset Publik: Regulasi dan Kepatuhan,Data katalog rancangan,Manajemen Aset,SIM-000124,2026,Koleksi rancangan,Rak F-06,150000,./covers/B0124.svg,Katalog rancangan,4
+B0125,Manajemen Aset Publik: Studi Kasus Indonesia,Data katalog rancangan,Manajemen Aset,SIM-000125,2026,Koleksi rancangan,Rak F-07,150000,./covers/B0125.svg,Katalog rancangan,2
+B0126,Manajemen Aset Publik: Praktik Lapangan,Data katalog rancangan,Manajemen Aset,SIM-000126,2026,Koleksi rancangan,Rak F-08,150000,./covers/B0126.svg,Katalog rancangan,3
+B0127,Manajemen Aset Publik: Manajemen Proses,Data katalog rancangan,Manajemen Aset,SIM-000127,2026,Koleksi rancangan,Rak F-09,150000,./covers/B0127.svg,Katalog rancangan,4
+B0128,Manajemen Aset Publik: Pengendalian dan Pengawasan,Data katalog rancangan,Manajemen Aset,SIM-000128,2026,Koleksi rancangan,Rak F-10,150000,./covers/B0128.svg,Katalog rancangan,2
+B0129,Manajemen Aset Publik: Pelaporan,Data katalog rancangan,Manajemen Aset,SIM-000129,2026,Koleksi rancangan,Rak F-11,150000,./covers/B0129.svg,Katalog rancangan,3
+B0130,Manajemen Aset Publik: Inovasi Digital,Data katalog rancangan,Manajemen Aset,SIM-000130,2026,Koleksi rancangan,Rak F-12,150000,./covers/B0130.svg,Katalog rancangan,4
+B0131,Manajemen Aset Publik: Metode Kuantitatif,Data katalog rancangan,Manajemen Aset,SIM-000131,2026,Koleksi rancangan,Rak F-13,150000,./covers/B0131.svg,Katalog rancangan,2
+B0132,Manajemen Aset Publik: Metode Kualitatif,Data katalog rancangan,Manajemen Aset,SIM-000132,2026,Koleksi rancangan,Rak F-14,150000,./covers/B0132.svg,Katalog rancangan,3
+B0133,Manajemen Aset Publik: Manajemen Risiko,Data katalog rancangan,Manajemen Aset,SIM-000133,2026,Koleksi rancangan,Rak F-15,150000,./covers/B0133.svg,Katalog rancangan,4
+B0134,Manajemen Aset Publik: Evaluasi Kebijakan,Data katalog rancangan,Manajemen Aset,SIM-000134,2026,Koleksi rancangan,Rak F-16,150000,./covers/B0134.svg,Katalog rancangan,2
+B0135,Manajemen Aset Publik: Transparansi dan Akuntabilitas,Data katalog rancangan,Manajemen Aset,SIM-000135,2026,Koleksi rancangan,Rak F-17,150000,./covers/B0135.svg,Katalog rancangan,3
+B0136,Manajemen Aset Publik: Pelayanan dan Pengguna,Data katalog rancangan,Manajemen Aset,SIM-000136,2026,Koleksi rancangan,Rak F-18,150000,./covers/B0136.svg,Katalog rancangan,4
+B0137,Manajemen Aset Publik: Perancangan Sistem,Data katalog rancangan,Manajemen Aset,SIM-000137,2026,Koleksi rancangan,Rak F-19,150000,./covers/B0137.svg,Katalog rancangan,2
+B0138,Manajemen Aset Publik: Isu Kontemporer,Data katalog rancangan,Manajemen Aset,SIM-000138,2026,Koleksi rancangan,Rak F-20,150000,./covers/B0138.svg,Katalog rancangan,3
+B0139,Hukum Administrasi Negara: Pengantar dan Kerangka Konseptual,Data katalog rancangan,Hukum,SIM-000139,2026,Koleksi rancangan,Rak G-01,75000,./covers/B0139.svg,Katalog rancangan,2
+B0140,Hukum Administrasi Negara: Perencanaan dan Strategi,Data katalog rancangan,Hukum,SIM-000140,2026,Koleksi rancangan,Rak G-02,75000,./covers/B0140.svg,Katalog rancangan,3
+B0141,Hukum Administrasi Negara: Pencatatan dan Dokumentasi,Data katalog rancangan,Hukum,SIM-000141,2026,Koleksi rancangan,Rak G-03,75000,./covers/B0141.svg,Katalog rancangan,4
+B0142,Hukum Administrasi Negara: Analisis Data,Data katalog rancangan,Hukum,SIM-000142,2026,Koleksi rancangan,Rak G-04,75000,./covers/B0142.svg,Katalog rancangan,2
+B0143,Hukum Administrasi Negara: Pengukuran Kinerja,Data katalog rancangan,Hukum,SIM-000143,2026,Koleksi rancangan,Rak G-05,75000,./covers/B0143.svg,Katalog rancangan,3
+B0144,Hukum Administrasi Negara: Regulasi dan Kepatuhan,Data katalog rancangan,Hukum,SIM-000144,2026,Koleksi rancangan,Rak G-06,75000,./covers/B0144.svg,Katalog rancangan,4
+B0145,Hukum Administrasi Negara: Studi Kasus Indonesia,Data katalog rancangan,Hukum,SIM-000145,2026,Koleksi rancangan,Rak G-07,75000,./covers/B0145.svg,Katalog rancangan,2
+B0146,Hukum Administrasi Negara: Praktik Lapangan,Data katalog rancangan,Hukum,SIM-000146,2026,Koleksi rancangan,Rak G-08,75000,./covers/B0146.svg,Katalog rancangan,3
+B0147,Hukum Administrasi Negara: Manajemen Proses,Data katalog rancangan,Hukum,SIM-000147,2026,Koleksi rancangan,Rak G-09,75000,./covers/B0147.svg,Katalog rancangan,4
+B0148,Hukum Administrasi Negara: Pengendalian dan Pengawasan,Data katalog rancangan,Hukum,SIM-000148,2026,Koleksi rancangan,Rak G-10,75000,./covers/B0148.svg,Katalog rancangan,2
+B0149,Hukum Administrasi Negara: Pelaporan,Data katalog rancangan,Hukum,SIM-000149,2026,Koleksi rancangan,Rak G-11,75000,./covers/B0149.svg,Katalog rancangan,3
+B0150,Hukum Administrasi Negara: Inovasi Digital,Data katalog rancangan,Hukum,SIM-000150,2026,Koleksi rancangan,Rak G-12,75000,./covers/B0150.svg,Katalog rancangan,4
+B0151,Hukum Administrasi Negara: Metode Kuantitatif,Data katalog rancangan,Hukum,SIM-000151,2026,Koleksi rancangan,Rak G-13,75000,./covers/B0151.svg,Katalog rancangan,2
+B0152,Hukum Administrasi Negara: Metode Kualitatif,Data katalog rancangan,Hukum,SIM-000152,2026,Koleksi rancangan,Rak G-14,75000,./covers/B0152.svg,Katalog rancangan,3
+B0153,Hukum Administrasi Negara: Manajemen Risiko,Data katalog rancangan,Hukum,SIM-000153,2026,Koleksi rancangan,Rak G-15,75000,./covers/B0153.svg,Katalog rancangan,4
+B0154,Hukum Administrasi Negara: Evaluasi Kebijakan,Data katalog rancangan,Hukum,SIM-000154,2026,Koleksi rancangan,Rak G-16,75000,./covers/B0154.svg,Katalog rancangan,2
+B0155,Hukum Administrasi Negara: Transparansi dan Akuntabilitas,Data katalog rancangan,Hukum,SIM-000155,2026,Koleksi rancangan,Rak G-17,75000,./covers/B0155.svg,Katalog rancangan,3
+B0156,Hukum Administrasi Negara: Pelayanan dan Pengguna,Data katalog rancangan,Hukum,SIM-000156,2026,Koleksi rancangan,Rak G-18,75000,./covers/B0156.svg,Katalog rancangan,4
+B0157,Hukum Administrasi Negara: Perancangan Sistem,Data katalog rancangan,Hukum,SIM-000157,2026,Koleksi rancangan,Rak G-19,75000,./covers/B0157.svg,Katalog rancangan,2
+B0158,Hukum Administrasi Negara: Isu Kontemporer,Data katalog rancangan,Hukum,SIM-000158,2026,Koleksi rancangan,Rak G-20,75000,./covers/B0158.svg,Katalog rancangan,3
+B0159,Statistika Terapan: Pengantar dan Kerangka Konseptual,Data katalog rancangan,Metodologi,SIM-000159,2026,Koleksi rancangan,Rak H-01,90000,./covers/B0159.svg,Katalog rancangan,2
+B0160,Statistika Terapan: Perencanaan dan Strategi,Data katalog rancangan,Metodologi,SIM-000160,2026,Koleksi rancangan,Rak H-02,90000,./covers/B0160.svg,Katalog rancangan,3
+B0161,Statistika Terapan: Pencatatan dan Dokumentasi,Data katalog rancangan,Metodologi,SIM-000161,2026,Koleksi rancangan,Rak H-03,90000,./covers/B0161.svg,Katalog rancangan,4
+B0162,Statistika Terapan: Analisis Data,Data katalog rancangan,Metodologi,SIM-000162,2026,Koleksi rancangan,Rak H-04,90000,./covers/B0162.svg,Katalog rancangan,2
+B0163,Statistika Terapan: Pengukuran Kinerja,Data katalog rancangan,Metodologi,SIM-000163,2026,Koleksi rancangan,Rak H-05,90000,./covers/B0163.svg,Katalog rancangan,3
+B0164,Statistika Terapan: Regulasi dan Kepatuhan,Data katalog rancangan,Metodologi,SIM-000164,2026,Koleksi rancangan,Rak H-06,90000,./covers/B0164.svg,Katalog rancangan,4
+B0165,Statistika Terapan: Studi Kasus Indonesia,Data katalog rancangan,Metodologi,SIM-000165,2026,Koleksi rancangan,Rak H-07,90000,./covers/B0165.svg,Katalog rancangan,2
+B0166,Statistika Terapan: Praktik Lapangan,Data katalog rancangan,Metodologi,SIM-000166,2026,Koleksi rancangan,Rak H-08,90000,./covers/B0166.svg,Katalog rancangan,3
+B0167,Statistika Terapan: Manajemen Proses,Data katalog rancangan,Metodologi,SIM-000167,2026,Koleksi rancangan,Rak H-09,90000,./covers/B0167.svg,Katalog rancangan,4
+B0168,Statistika Terapan: Pengendalian dan Pengawasan,Data katalog rancangan,Metodologi,SIM-000168,2026,Koleksi rancangan,Rak H-10,90000,./covers/B0168.svg,Katalog rancangan,2
+B0169,Statistika Terapan: Pelaporan,Data katalog rancangan,Metodologi,SIM-000169,2026,Koleksi rancangan,Rak H-11,90000,./covers/B0169.svg,Katalog rancangan,3
+B0170,Statistika Terapan: Inovasi Digital,Data katalog rancangan,Metodologi,SIM-000170,2026,Koleksi rancangan,Rak H-12,90000,./covers/B0170.svg,Katalog rancangan,4
+B0171,Statistika Terapan: Metode Kuantitatif,Data katalog rancangan,Metodologi,SIM-000171,2026,Koleksi rancangan,Rak H-13,90000,./covers/B0171.svg,Katalog rancangan,2
+B0172,Statistika Terapan: Metode Kualitatif,Data katalog rancangan,Metodologi,SIM-000172,2026,Koleksi rancangan,Rak H-14,90000,./covers/B0172.svg,Katalog rancangan,3
+B0173,Statistika Terapan: Manajemen Risiko,Data katalog rancangan,Metodologi,SIM-000173,2026,Koleksi rancangan,Rak H-15,90000,./covers/B0173.svg,Katalog rancangan,4
+B0174,Statistika Terapan: Evaluasi Kebijakan,Data katalog rancangan,Metodologi,SIM-000174,2026,Koleksi rancangan,Rak H-16,90000,./covers/B0174.svg,Katalog rancangan,2
+B0175,Statistika Terapan: Transparansi dan Akuntabilitas,Data katalog rancangan,Metodologi,SIM-000175,2026,Koleksi rancangan,Rak H-17,90000,./covers/B0175.svg,Katalog rancangan,3
+B0176,Statistika Terapan: Pelayanan dan Pengguna,Data katalog rancangan,Metodologi,SIM-000176,2026,Koleksi rancangan,Rak H-18,90000,./covers/B0176.svg,Katalog rancangan,4
+B0177,Statistika Terapan: Perancangan Sistem,Data katalog rancangan,Metodologi,SIM-000177,2026,Koleksi rancangan,Rak H-19,90000,./covers/B0177.svg,Katalog rancangan,2
+B0178,Statistika Terapan: Isu Kontemporer,Data katalog rancangan,Metodologi,SIM-000178,2026,Koleksi rancangan,Rak H-20,90000,./covers/B0178.svg,Katalog rancangan,3
+B0179,Ekonomi Publik: Pengantar dan Kerangka Konseptual,Data katalog rancangan,Ekonomi,SIM-000179,2026,Koleksi rancangan,Rak I-01,105000,./covers/B0179.svg,Katalog rancangan,2
+B0180,Ekonomi Publik: Perencanaan dan Strategi,Data katalog rancangan,Ekonomi,SIM-000180,2026,Koleksi rancangan,Rak I-02,105000,./covers/B0180.svg,Katalog rancangan,3
+B0181,Ekonomi Publik: Pencatatan dan Dokumentasi,Data katalog rancangan,Ekonomi,SIM-000181,2026,Koleksi rancangan,Rak I-03,105000,./covers/B0181.svg,Katalog rancangan,4
+B0182,Ekonomi Publik: Analisis Data,Data katalog rancangan,Ekonomi,SIM-000182,2026,Koleksi rancangan,Rak I-04,105000,./covers/B0182.svg,Katalog rancangan,2
+B0183,Ekonomi Publik: Pengukuran Kinerja,Data katalog rancangan,Ekonomi,SIM-000183,2026,Koleksi rancangan,Rak I-05,105000,./covers/B0183.svg,Katalog rancangan,3
+B0184,Ekonomi Publik: Regulasi dan Kepatuhan,Data katalog rancangan,Ekonomi,SIM-000184,2026,Koleksi rancangan,Rak I-06,105000,./covers/B0184.svg,Katalog rancangan,4
+B0185,Ekonomi Publik: Studi Kasus Indonesia,Data katalog rancangan,Ekonomi,SIM-000185,2026,Koleksi rancangan,Rak I-07,105000,./covers/B0185.svg,Katalog rancangan,2
+B0186,Ekonomi Publik: Praktik Lapangan,Data katalog rancangan,Ekonomi,SIM-000186,2026,Koleksi rancangan,Rak I-08,105000,./covers/B0186.svg,Katalog rancangan,3
+B0187,Ekonomi Publik: Manajemen Proses,Data katalog rancangan,Ekonomi,SIM-000187,2026,Koleksi rancangan,Rak I-09,105000,./covers/B0187.svg,Katalog rancangan,4
+B0188,Ekonomi Publik: Pengendalian dan Pengawasan,Data katalog rancangan,Ekonomi,SIM-000188,2026,Koleksi rancangan,Rak I-10,105000,./covers/B0188.svg,Katalog rancangan,2
+B0189,Ekonomi Publik: Pelaporan,Data katalog rancangan,Ekonomi,SIM-000189,2026,Koleksi rancangan,Rak I-11,105000,./covers/B0189.svg,Katalog rancangan,3
+B0190,Ekonomi Publik: Inovasi Digital,Data katalog rancangan,Ekonomi,SIM-000190,2026,Koleksi rancangan,Rak I-12,105000,./covers/B0190.svg,Katalog rancangan,4
+B0191,Ekonomi Publik: Metode Kuantitatif,Data katalog rancangan,Ekonomi,SIM-000191,2026,Koleksi rancangan,Rak I-13,105000,./covers/B0191.svg,Katalog rancangan,2
+B0192,Ekonomi Publik: Metode Kualitatif,Data katalog rancangan,Ekonomi,SIM-000192,2026,Koleksi rancangan,Rak I-14,105000,./covers/B0192.svg,Katalog rancangan,3
+B0193,Ekonomi Publik: Manajemen Risiko,Data katalog rancangan,Ekonomi,SIM-000193,2026,Koleksi rancangan,Rak I-15,105000,./covers/B0193.svg,Katalog rancangan,4
+B0194,Ekonomi Publik: Evaluasi Kebijakan,Data katalog rancangan,Ekonomi,SIM-000194,2026,Koleksi rancangan,Rak I-16,105000,./covers/B0194.svg,Katalog rancangan,2
+B0195,Ekonomi Publik: Transparansi dan Akuntabilitas,Data katalog rancangan,Ekonomi,SIM-000195,2026,Koleksi rancangan,Rak I-17,105000,./covers/B0195.svg,Katalog rancangan,3
+B0196,Ekonomi Publik: Pelayanan dan Pengguna,Data katalog rancangan,Ekonomi,SIM-000196,2026,Koleksi rancangan,Rak I-18,105000,./covers/B0196.svg,Katalog rancangan,4
+B0197,Ekonomi Publik: Perancangan Sistem,Data katalog rancangan,Ekonomi,SIM-000197,2026,Koleksi rancangan,Rak I-19,105000,./covers/B0197.svg,Katalog rancangan,2
+B0198,Ekonomi Publik: Isu Kontemporer,Data katalog rancangan,Ekonomi,SIM-000198,2026,Koleksi rancangan,Rak I-20,105000,./covers/B0198.svg,Katalog rancangan,3
+B0199,Manajemen Risiko: Pengantar dan Kerangka Konseptual,Data katalog rancangan,Manajemen,SIM-000199,2026,Koleksi rancangan,Rak J-01,120000,./covers/B0199.svg,Katalog rancangan,2
+B0200,Manajemen Risiko: Perencanaan dan Strategi,Data katalog rancangan,Manajemen,SIM-000200,2026,Koleksi rancangan,Rak J-02,120000,./covers/B0200.svg,Katalog rancangan,3
+B0201,Manajemen Risiko: Pencatatan dan Dokumentasi,Data katalog rancangan,Manajemen,SIM-000201,2026,Koleksi rancangan,Rak J-03,120000,./covers/B0201.svg,Katalog rancangan,4
+B0202,Manajemen Risiko: Analisis Data,Data katalog rancangan,Manajemen,SIM-000202,2026,Koleksi rancangan,Rak J-04,120000,./covers/B0202.svg,Katalog rancangan,2
+B0203,Manajemen Risiko: Pengukuran Kinerja,Data katalog rancangan,Manajemen,SIM-000203,2026,Koleksi rancangan,Rak J-05,120000,./covers/B0203.svg,Katalog rancangan,3
+B0204,Manajemen Risiko: Regulasi dan Kepatuhan,Data katalog rancangan,Manajemen,SIM-000204,2026,Koleksi rancangan,Rak J-06,120000,./covers/B0204.svg,Katalog rancangan,4
+B0205,Manajemen Risiko: Studi Kasus Indonesia,Data katalog rancangan,Manajemen,SIM-000205,2026,Koleksi rancangan,Rak J-07,120000,./covers/B0205.svg,Katalog rancangan,2
+B0206,Manajemen Risiko: Praktik Lapangan,Data katalog rancangan,Manajemen,SIM-000206,2026,Koleksi rancangan,Rak J-08,120000,./covers/B0206.svg,Katalog rancangan,3
+B0207,Manajemen Risiko: Manajemen Proses,Data katalog rancangan,Manajemen,SIM-000207,2026,Koleksi rancangan,Rak J-09,120000,./covers/B0207.svg,Katalog rancangan,4
+B0208,Manajemen Risiko: Pengendalian dan Pengawasan,Data katalog rancangan,Manajemen,SIM-000208,2026,Koleksi rancangan,Rak J-10,120000,./covers/B0208.svg,Katalog rancangan,2
+B0209,Manajemen Risiko: Pelaporan,Data katalog rancangan,Manajemen,SIM-000209,2026,Koleksi rancangan,Rak J-11,120000,./covers/B0209.svg,Katalog rancangan,3
+B0210,Manajemen Risiko: Inovasi Digital,Data katalog rancangan,Manajemen,SIM-000210,2026,Koleksi rancangan,Rak J-12,120000,./covers/B0210.svg,Katalog rancangan,4
+B0211,Manajemen Risiko: Metode Kuantitatif,Data katalog rancangan,Manajemen,SIM-000211,2026,Koleksi rancangan,Rak J-13,120000,./covers/B0211.svg,Katalog rancangan,2
+B0212,Manajemen Risiko: Metode Kualitatif,Data katalog rancangan,Manajemen,SIM-000212,2026,Koleksi rancangan,Rak J-14,120000,./covers/B0212.svg,Katalog rancangan,3
+B0213,Manajemen Risiko: Manajemen Risiko,Data katalog rancangan,Manajemen,SIM-000213,2026,Koleksi rancangan,Rak J-15,120000,./covers/B0213.svg,Katalog rancangan,4
+B0214,Manajemen Risiko: Evaluasi Kebijakan,Data katalog rancangan,Manajemen,SIM-000214,2026,Koleksi rancangan,Rak J-16,120000,./covers/B0214.svg,Katalog rancangan,2
+B0215,Manajemen Risiko: Transparansi dan Akuntabilitas,Data katalog rancangan,Manajemen,SIM-000215,2026,Koleksi rancangan,Rak J-17,120000,./covers/B0215.svg,Katalog rancangan,3
+B0216,Manajemen Risiko: Pelayanan dan Pengguna,Data katalog rancangan,Manajemen,SIM-000216,2026,Koleksi rancangan,Rak J-18,120000,./covers/B0216.svg,Katalog rancangan,4
+B0217,Manajemen Risiko: Perancangan Sistem,Data katalog rancangan,Manajemen,SIM-000217,2026,Koleksi rancangan,Rak J-19,120000,./covers/B0217.svg,Katalog rancangan,2
+B0218,Manajemen Risiko: Isu Kontemporer,Data katalog rancangan,Manajemen,SIM-000218,2026,Koleksi rancangan,Rak J-20,120000,./covers/B0218.svg,Katalog rancangan,3
+B0219,Penganggaran Negara: Pengantar dan Kerangka Konseptual,Data katalog rancangan,Keuangan Publik,SIM-000219,2026,Koleksi rancangan,Rak K-01,135000,./covers/B0219.svg,Katalog rancangan,2
+B0220,Penganggaran Negara: Perencanaan dan Strategi,Data katalog rancangan,Keuangan Publik,SIM-000220,2026,Koleksi rancangan,Rak K-02,135000,./covers/B0220.svg,Katalog rancangan,3
+B0221,Penganggaran Negara: Pencatatan dan Dokumentasi,Data katalog rancangan,Keuangan Publik,SIM-000221,2026,Koleksi rancangan,Rak K-03,135000,./covers/B0221.svg,Katalog rancangan,4
+B0222,Penganggaran Negara: Analisis Data,Data katalog rancangan,Keuangan Publik,SIM-000222,2026,Koleksi rancangan,Rak K-04,135000,./covers/B0222.svg,Katalog rancangan,2
+B0223,Penganggaran Negara: Pengukuran Kinerja,Data katalog rancangan,Keuangan Publik,SIM-000223,2026,Koleksi rancangan,Rak K-05,135000,./covers/B0223.svg,Katalog rancangan,3
+B0224,Penganggaran Negara: Regulasi dan Kepatuhan,Data katalog rancangan,Keuangan Publik,SIM-000224,2026,Koleksi rancangan,Rak K-06,135000,./covers/B0224.svg,Katalog rancangan,4
+B0225,Penganggaran Negara: Studi Kasus Indonesia,Data katalog rancangan,Keuangan Publik,SIM-000225,2026,Koleksi rancangan,Rak K-07,135000,./covers/B0225.svg,Katalog rancangan,2
+B0226,Penganggaran Negara: Praktik Lapangan,Data katalog rancangan,Keuangan Publik,SIM-000226,2026,Koleksi rancangan,Rak K-08,135000,./covers/B0226.svg,Katalog rancangan,3
+B0227,Penganggaran Negara: Manajemen Proses,Data katalog rancangan,Keuangan Publik,SIM-000227,2026,Koleksi rancangan,Rak K-09,135000,./covers/B0227.svg,Katalog rancangan,4
+B0228,Penganggaran Negara: Pengendalian dan Pengawasan,Data katalog rancangan,Keuangan Publik,SIM-000228,2026,Koleksi rancangan,Rak K-10,135000,./covers/B0228.svg,Katalog rancangan,2
+B0229,Penganggaran Negara: Pelaporan,Data katalog rancangan,Keuangan Publik,SIM-000229,2026,Koleksi rancangan,Rak K-11,135000,./covers/B0229.svg,Katalog rancangan,3
+B0230,Penganggaran Negara: Inovasi Digital,Data katalog rancangan,Keuangan Publik,SIM-000230,2026,Koleksi rancangan,Rak K-12,135000,./covers/B0230.svg,Katalog rancangan,4
+B0231,Penganggaran Negara: Metode Kuantitatif,Data katalog rancangan,Keuangan Publik,SIM-000231,2026,Koleksi rancangan,Rak K-13,135000,./covers/B0231.svg,Katalog rancangan,2
+B0232,Penganggaran Negara: Metode Kualitatif,Data katalog rancangan,Keuangan Publik,SIM-000232,2026,Koleksi rancangan,Rak K-14,135000,./covers/B0232.svg,Katalog rancangan,3
+B0233,Penganggaran Negara: Manajemen Risiko,Data katalog rancangan,Keuangan Publik,SIM-000233,2026,Koleksi rancangan,Rak K-15,135000,./covers/B0233.svg,Katalog rancangan,4
+B0234,Penganggaran Negara: Evaluasi Kebijakan,Data katalog rancangan,Keuangan Publik,SIM-000234,2026,Koleksi rancangan,Rak K-16,135000,./covers/B0234.svg,Katalog rancangan,2
+B0235,Penganggaran Negara: Transparansi dan Akuntabilitas,Data katalog rancangan,Keuangan Publik,SIM-000235,2026,Koleksi rancangan,Rak K-17,135000,./covers/B0235.svg,Katalog rancangan,3
+B0236,Penganggaran Negara: Pelayanan dan Pengguna,Data katalog rancangan,Keuangan Publik,SIM-000236,2026,Koleksi rancangan,Rak K-18,135000,./covers/B0236.svg,Katalog rancangan,4
+B0237,Penganggaran Negara: Perancangan Sistem,Data katalog rancangan,Keuangan Publik,SIM-000237,2026,Koleksi rancangan,Rak K-19,135000,./covers/B0237.svg,Katalog rancangan,2
+B0238,Penganggaran Negara: Isu Kontemporer,Data katalog rancangan,Keuangan Publik,SIM-000238,2026,Koleksi rancangan,Rak K-20,135000,./covers/B0238.svg,Katalog rancangan,3
+B0239,Kepabeanan dan Cukai: Pengantar dan Kerangka Konseptual,Data katalog rancangan,Perpajakan,SIM-000239,2026,Koleksi rancangan,Rak L-01,150000,./covers/B0239.svg,Katalog rancangan,2
+B0240,Kepabeanan dan Cukai: Perencanaan dan Strategi,Data katalog rancangan,Perpajakan,SIM-000240,2026,Koleksi rancangan,Rak L-02,150000,./covers/B0240.svg,Katalog rancangan,3
+B0241,Kepabeanan dan Cukai: Pencatatan dan Dokumentasi,Data katalog rancangan,Perpajakan,SIM-000241,2026,Koleksi rancangan,Rak L-03,150000,./covers/B0241.svg,Katalog rancangan,4
+B0242,Kepabeanan dan Cukai: Analisis Data,Data katalog rancangan,Perpajakan,SIM-000242,2026,Koleksi rancangan,Rak L-04,150000,./covers/B0242.svg,Katalog rancangan,2
+B0243,Kepabeanan dan Cukai: Pengukuran Kinerja,Data katalog rancangan,Perpajakan,SIM-000243,2026,Koleksi rancangan,Rak L-05,150000,./covers/B0243.svg,Katalog rancangan,3
+B0244,Kepabeanan dan Cukai: Regulasi dan Kepatuhan,Data katalog rancangan,Perpajakan,SIM-000244,2026,Koleksi rancangan,Rak L-06,150000,./covers/B0244.svg,Katalog rancangan,4
+B0245,Kepabeanan dan Cukai: Studi Kasus Indonesia,Data katalog rancangan,Perpajakan,SIM-000245,2026,Koleksi rancangan,Rak L-07,150000,./covers/B0245.svg,Katalog rancangan,2
+B0246,Kepabeanan dan Cukai: Praktik Lapangan,Data katalog rancangan,Perpajakan,SIM-000246,2026,Koleksi rancangan,Rak L-08,150000,./covers/B0246.svg,Katalog rancangan,3
+B0247,Kepabeanan dan Cukai: Manajemen Proses,Data katalog rancangan,Perpajakan,SIM-000247,2026,Koleksi rancangan,Rak L-09,150000,./covers/B0247.svg,Katalog rancangan,4
+B0248,Kepabeanan dan Cukai: Pengendalian dan Pengawasan,Data katalog rancangan,Perpajakan,SIM-000248,2026,Koleksi rancangan,Rak L-10,150000,./covers/B0248.svg,Katalog rancangan,2
+B0249,Kepabeanan dan Cukai: Pelaporan,Data katalog rancangan,Perpajakan,SIM-000249,2026,Koleksi rancangan,Rak L-11,150000,./covers/B0249.svg,Katalog rancangan,3
+B0250,Kepabeanan dan Cukai: Inovasi Digital,Data katalog rancangan,Perpajakan,SIM-000250,2026,Koleksi rancangan,Rak L-12,150000,./covers/B0250.svg,Katalog rancangan,4
+B0251,Kepabeanan dan Cukai: Metode Kuantitatif,Data katalog rancangan,Perpajakan,SIM-000251,2026,Koleksi rancangan,Rak L-13,150000,./covers/B0251.svg,Katalog rancangan,2
+B0252,Kepabeanan dan Cukai: Metode Kualitatif,Data katalog rancangan,Perpajakan,SIM-000252,2026,Koleksi rancangan,Rak L-14,150000,./covers/B0252.svg,Katalog rancangan,3
+B0253,Kepabeanan dan Cukai: Manajemen Risiko,Data katalog rancangan,Perpajakan,SIM-000253,2026,Koleksi rancangan,Rak L-15,150000,./covers/B0253.svg,Katalog rancangan,4
+B0254,Kepabeanan dan Cukai: Evaluasi Kebijakan,Data katalog rancangan,Perpajakan,SIM-000254,2026,Koleksi rancangan,Rak L-16,150000,./covers/B0254.svg,Katalog rancangan,2
+B0255,Kepabeanan dan Cukai: Transparansi dan Akuntabilitas,Data katalog rancangan,Perpajakan,SIM-000255,2026,Koleksi rancangan,Rak L-17,150000,./covers/B0255.svg,Katalog rancangan,3
+B0256,Kepabeanan dan Cukai: Pelayanan dan Pengguna,Data katalog rancangan,Perpajakan,SIM-000256,2026,Koleksi rancangan,Rak L-18,150000,./covers/B0256.svg,Katalog rancangan,4
+B0257,Kepabeanan dan Cukai: Perancangan Sistem,Data katalog rancangan,Perpajakan,SIM-000257,2026,Koleksi rancangan,Rak L-19,150000,./covers/B0257.svg,Katalog rancangan,2
+B0258,Kepabeanan dan Cukai: Isu Kontemporer,Data katalog rancangan,Perpajakan,SIM-000258,2026,Koleksi rancangan,Rak L-20,150000,./covers/B0258.svg,Katalog rancangan,3
+B0259,Analitika Data: Pengantar dan Kerangka Konseptual,Data katalog rancangan,Sistem Informasi,SIM-000259,2026,Koleksi rancangan,Rak M-01,75000,./covers/B0259.svg,Katalog rancangan,2
+B0260,Analitika Data: Perencanaan dan Strategi,Data katalog rancangan,Sistem Informasi,SIM-000260,2026,Koleksi rancangan,Rak M-02,75000,./covers/B0260.svg,Katalog rancangan,3
+B0261,Analitika Data: Pencatatan dan Dokumentasi,Data katalog rancangan,Sistem Informasi,SIM-000261,2026,Koleksi rancangan,Rak M-03,75000,./covers/B0261.svg,Katalog rancangan,4
+B0262,Analitika Data: Analisis Data,Data katalog rancangan,Sistem Informasi,SIM-000262,2026,Koleksi rancangan,Rak M-04,75000,./covers/B0262.svg,Katalog rancangan,2
+B0263,Analitika Data: Pengukuran Kinerja,Data katalog rancangan,Sistem Informasi,SIM-000263,2026,Koleksi rancangan,Rak M-05,75000,./covers/B0263.svg,Katalog rancangan,3
+B0264,Analitika Data: Regulasi dan Kepatuhan,Data katalog rancangan,Sistem Informasi,SIM-000264,2026,Koleksi rancangan,Rak M-06,75000,./covers/B0264.svg,Katalog rancangan,4
+B0265,Analitika Data: Studi Kasus Indonesia,Data katalog rancangan,Sistem Informasi,SIM-000265,2026,Koleksi rancangan,Rak M-07,75000,./covers/B0265.svg,Katalog rancangan,2
+B0266,Analitika Data: Praktik Lapangan,Data katalog rancangan,Sistem Informasi,SIM-000266,2026,Koleksi rancangan,Rak M-08,75000,./covers/B0266.svg,Katalog rancangan,3
+B0267,Analitika Data: Manajemen Proses,Data katalog rancangan,Sistem Informasi,SIM-000267,2026,Koleksi rancangan,Rak M-09,75000,./covers/B0267.svg,Katalog rancangan,4
+B0268,Analitika Data: Pengendalian dan Pengawasan,Data katalog rancangan,Sistem Informasi,SIM-000268,2026,Koleksi rancangan,Rak M-10,75000,./covers/B0268.svg,Katalog rancangan,2
+B0269,Analitika Data: Pelaporan,Data katalog rancangan,Sistem Informasi,SIM-000269,2026,Koleksi rancangan,Rak M-11,75000,./covers/B0269.svg,Katalog rancangan,3
+B0270,Analitika Data: Inovasi Digital,Data katalog rancangan,Sistem Informasi,SIM-000270,2026,Koleksi rancangan,Rak M-12,75000,./covers/B0270.svg,Katalog rancangan,4
+B0271,Analitika Data: Metode Kuantitatif,Data katalog rancangan,Sistem Informasi,SIM-000271,2026,Koleksi rancangan,Rak M-13,75000,./covers/B0271.svg,Katalog rancangan,2
+B0272,Analitika Data: Metode Kualitatif,Data katalog rancangan,Sistem Informasi,SIM-000272,2026,Koleksi rancangan,Rak M-14,75000,./covers/B0272.svg,Katalog rancangan,3
+B0273,Analitika Data: Manajemen Risiko,Data katalog rancangan,Sistem Informasi,SIM-000273,2026,Koleksi rancangan,Rak M-15,75000,./covers/B0273.svg,Katalog rancangan,4
+B0274,Analitika Data: Evaluasi Kebijakan,Data katalog rancangan,Sistem Informasi,SIM-000274,2026,Koleksi rancangan,Rak M-16,75000,./covers/B0274.svg,Katalog rancangan,2
+B0275,Analitika Data: Transparansi dan Akuntabilitas,Data katalog rancangan,Sistem Informasi,SIM-000275,2026,Koleksi rancangan,Rak M-17,75000,./covers/B0275.svg,Katalog rancangan,3
+B0276,Analitika Data: Pelayanan dan Pengguna,Data katalog rancangan,Sistem Informasi,SIM-000276,2026,Koleksi rancangan,Rak M-18,75000,./covers/B0276.svg,Katalog rancangan,4
+B0277,Analitika Data: Perancangan Sistem,Data katalog rancangan,Sistem Informasi,SIM-000277,2026,Koleksi rancangan,Rak M-19,75000,./covers/B0277.svg,Katalog rancangan,2
+B0278,Analitika Data: Isu Kontemporer,Data katalog rancangan,Sistem Informasi,SIM-000278,2026,Koleksi rancangan,Rak M-20,75000,./covers/B0278.svg,Katalog rancangan,3
+B0279,Tata Kelola Organisasi: Pengantar dan Kerangka Konseptual,Data katalog rancangan,Manajemen,SIM-000279,2026,Koleksi rancangan,Rak N-01,90000,./covers/B0279.svg,Katalog rancangan,2
+B0280,Tata Kelola Organisasi: Perencanaan dan Strategi,Data katalog rancangan,Manajemen,SIM-000280,2026,Koleksi rancangan,Rak N-02,90000,./covers/B0280.svg,Katalog rancangan,3
+B0281,Tata Kelola Organisasi: Pencatatan dan Dokumentasi,Data katalog rancangan,Manajemen,SIM-000281,2026,Koleksi rancangan,Rak N-03,90000,./covers/B0281.svg,Katalog rancangan,4
+B0282,Tata Kelola Organisasi: Analisis Data,Data katalog rancangan,Manajemen,SIM-000282,2026,Koleksi rancangan,Rak N-04,90000,./covers/B0282.svg,Katalog rancangan,2
+B0283,Tata Kelola Organisasi: Pengukuran Kinerja,Data katalog rancangan,Manajemen,SIM-000283,2026,Koleksi rancangan,Rak N-05,90000,./covers/B0283.svg,Katalog rancangan,3
+B0284,Tata Kelola Organisasi: Regulasi dan Kepatuhan,Data katalog rancangan,Manajemen,SIM-000284,2026,Koleksi rancangan,Rak N-06,90000,./covers/B0284.svg,Katalog rancangan,4
+B0285,Tata Kelola Organisasi: Studi Kasus Indonesia,Data katalog rancangan,Manajemen,SIM-000285,2026,Koleksi rancangan,Rak N-07,90000,./covers/B0285.svg,Katalog rancangan,2
+B0286,Tata Kelola Organisasi: Praktik Lapangan,Data katalog rancangan,Manajemen,SIM-000286,2026,Koleksi rancangan,Rak N-08,90000,./covers/B0286.svg,Katalog rancangan,3
+B0287,Tata Kelola Organisasi: Manajemen Proses,Data katalog rancangan,Manajemen,SIM-000287,2026,Koleksi rancangan,Rak N-09,90000,./covers/B0287.svg,Katalog rancangan,4
+B0288,Tata Kelola Organisasi: Pengendalian dan Pengawasan,Data katalog rancangan,Manajemen,SIM-000288,2026,Koleksi rancangan,Rak N-10,90000,./covers/B0288.svg,Katalog rancangan,2
+B0289,Tata Kelola Organisasi: Pelaporan,Data katalog rancangan,Manajemen,SIM-000289,2026,Koleksi rancangan,Rak N-11,90000,./covers/B0289.svg,Katalog rancangan,3
+B0290,Tata Kelola Organisasi: Inovasi Digital,Data katalog rancangan,Manajemen,SIM-000290,2026,Koleksi rancangan,Rak N-12,90000,./covers/B0290.svg,Katalog rancangan,4
+B0291,Tata Kelola Organisasi: Metode Kuantitatif,Data katalog rancangan,Manajemen,SIM-000291,2026,Koleksi rancangan,Rak N-13,90000,./covers/B0291.svg,Katalog rancangan,2
+B0292,Tata Kelola Organisasi: Metode Kualitatif,Data katalog rancangan,Manajemen,SIM-000292,2026,Koleksi rancangan,Rak N-14,90000,./covers/B0292.svg,Katalog rancangan,3
+B0293,Tata Kelola Organisasi: Manajemen Risiko,Data katalog rancangan,Manajemen,SIM-000293,2026,Koleksi rancangan,Rak N-15,90000,./covers/B0293.svg,Katalog rancangan,4
+B0294,Tata Kelola Organisasi: Evaluasi Kebijakan,Data katalog rancangan,Manajemen,SIM-000294,2026,Koleksi rancangan,Rak N-16,90000,./covers/B0294.svg,Katalog rancangan,2
+B0295,Tata Kelola Organisasi: Transparansi dan Akuntabilitas,Data katalog rancangan,Manajemen,SIM-000295,2026,Koleksi rancangan,Rak N-17,90000,./covers/B0295.svg,Katalog rancangan,3
+B0296,Tata Kelola Organisasi: Pelayanan dan Pengguna,Data katalog rancangan,Manajemen,SIM-000296,2026,Koleksi rancangan,Rak N-18,90000,./covers/B0296.svg,Katalog rancangan,4
+B0297,Tata Kelola Organisasi: Perancangan Sistem,Data katalog rancangan,Manajemen,SIM-000297,2026,Koleksi rancangan,Rak N-19,90000,./covers/B0297.svg,Katalog rancangan,2
+B0298,Tata Kelola Organisasi: Isu Kontemporer,Data katalog rancangan,Manajemen,SIM-000298,2026,Koleksi rancangan,Rak N-20,90000,./covers/B0298.svg,Katalog rancangan,3
+B0299,Pengadaan Barang dan Jasa: Pengantar dan Kerangka Konseptual,Data katalog rancangan,Manajemen Aset,SIM-000299,2026,Koleksi rancangan,Rak O-01,105000,./covers/B0299.svg,Katalog rancangan,2
+B0300,Pengadaan Barang dan Jasa: Perencanaan dan Strategi,Data katalog rancangan,Manajemen Aset,SIM-000300,2026,Koleksi rancangan,Rak O-02,105000,./covers/B0300.svg,Katalog rancangan,3
+B0301,Pengadaan Barang dan Jasa: Pencatatan dan Dokumentasi,Data katalog rancangan,Manajemen Aset,SIM-000301,2026,Koleksi rancangan,Rak O-03,105000,./covers/B0301.svg,Katalog rancangan,4
+B0302,Pengadaan Barang dan Jasa: Analisis Data,Data katalog rancangan,Manajemen Aset,SIM-000302,2026,Koleksi rancangan,Rak O-04,105000,./covers/B0302.svg,Katalog rancangan,2
+B0303,Pengadaan Barang dan Jasa: Pengukuran Kinerja,Data katalog rancangan,Manajemen Aset,SIM-000303,2026,Koleksi rancangan,Rak O-05,105000,./covers/B0303.svg,Katalog rancangan,3
+B0304,Pengadaan Barang dan Jasa: Regulasi dan Kepatuhan,Data katalog rancangan,Manajemen Aset,SIM-000304,2026,Koleksi rancangan,Rak O-06,105000,./covers/B0304.svg,Katalog rancangan,4
+B0305,Pengadaan Barang dan Jasa: Studi Kasus Indonesia,Data katalog rancangan,Manajemen Aset,SIM-000305,2026,Koleksi rancangan,Rak O-07,105000,./covers/B0305.svg,Katalog rancangan,2
+B0306,Pengadaan Barang dan Jasa: Praktik Lapangan,Data katalog rancangan,Manajemen Aset,SIM-000306,2026,Koleksi rancangan,Rak O-08,105000,./covers/B0306.svg,Katalog rancangan,3
+B0307,Pengadaan Barang dan Jasa: Manajemen Proses,Data katalog rancangan,Manajemen Aset,SIM-000307,2026,Koleksi rancangan,Rak O-09,105000,./covers/B0307.svg,Katalog rancangan,4
+B0308,Pengadaan Barang dan Jasa: Pengendalian dan Pengawasan,Data katalog rancangan,Manajemen Aset,SIM-000308,2026,Koleksi rancangan,Rak O-10,105000,./covers/B0308.svg,Katalog rancangan,2
+B0309,Pengadaan Barang dan Jasa: Pelaporan,Data katalog rancangan,Manajemen Aset,SIM-000309,2026,Koleksi rancangan,Rak O-11,105000,./covers/B0309.svg,Katalog rancangan,3
+B0310,Pengadaan Barang dan Jasa: Inovasi Digital,Data katalog rancangan,Manajemen Aset,SIM-000310,2026,Koleksi rancangan,Rak O-12,105000,./covers/B0310.svg,Katalog rancangan,4
+B0311,Pengadaan Barang dan Jasa: Metode Kuantitatif,Data katalog rancangan,Manajemen Aset,SIM-000311,2026,Koleksi rancangan,Rak O-13,105000,./covers/B0311.svg,Katalog rancangan,2
+B0312,Pengadaan Barang dan Jasa: Metode Kualitatif,Data katalog rancangan,Manajemen Aset,SIM-000312,2026,Koleksi rancangan,Rak O-14,105000,./covers/B0312.svg,Katalog rancangan,3
+B0313,Pengadaan Barang dan Jasa: Manajemen Risiko,Data katalog rancangan,Manajemen Aset,SIM-000313,2026,Koleksi rancangan,Rak O-15,105000,./covers/B0313.svg,Katalog rancangan,4
+B0314,Pengadaan Barang dan Jasa: Evaluasi Kebijakan,Data katalog rancangan,Manajemen Aset,SIM-000314,2026,Koleksi rancangan,Rak O-16,105000,./covers/B0314.svg,Katalog rancangan,2
+B0315,Pengadaan Barang dan Jasa: Transparansi dan Akuntabilitas,Data katalog rancangan,Manajemen Aset,SIM-000315,2026,Koleksi rancangan,Rak O-17,105000,./covers/B0315.svg,Katalog rancangan,3
+B0316,Pengadaan Barang dan Jasa: Pelayanan dan Pengguna,Data katalog rancangan,Manajemen Aset,SIM-000316,2026,Koleksi rancangan,Rak O-18,105000,./covers/B0316.svg,Katalog rancangan,4
+B0317,Pengadaan Barang dan Jasa: Perancangan Sistem,Data katalog rancangan,Manajemen Aset,SIM-000317,2026,Koleksi rancangan,Rak O-19,105000,./covers/B0317.svg,Katalog rancangan,2
+B0318,Pengadaan Barang dan Jasa: Isu Kontemporer,Data katalog rancangan,Manajemen Aset,SIM-000318,2026,Koleksi rancangan,Rak O-20,105000,./covers/B0318.svg,Katalog rancangan,3
+B0319,Akuntansi Pemerintahan: Pengantar dan Kerangka Konseptual,Data katalog rancangan,Akuntansi,SIM-000319,2026,Koleksi rancangan,Rak P-01,120000,./covers/B0319.svg,Katalog rancangan,2
+B0320,Akuntansi Pemerintahan: Perencanaan dan Strategi,Data katalog rancangan,Akuntansi,SIM-000320,2026,Koleksi rancangan,Rak P-02,120000,./covers/B0320.svg,Katalog rancangan,3
+B0321,Akuntansi Pemerintahan: Pencatatan dan Dokumentasi,Data katalog rancangan,Akuntansi,SIM-000321,2026,Koleksi rancangan,Rak P-03,120000,./covers/B0321.svg,Katalog rancangan,4
+B0322,Akuntansi Pemerintahan: Analisis Data,Data katalog rancangan,Akuntansi,SIM-000322,2026,Koleksi rancangan,Rak P-04,120000,./covers/B0322.svg,Katalog rancangan,2
+B0323,Akuntansi Pemerintahan: Pengukuran Kinerja,Data katalog rancangan,Akuntansi,SIM-000323,2026,Koleksi rancangan,Rak P-05,120000,./covers/B0323.svg,Katalog rancangan,3
+B0324,Akuntansi Pemerintahan: Regulasi dan Kepatuhan,Data katalog rancangan,Akuntansi,SIM-000324,2026,Koleksi rancangan,Rak P-06,120000,./covers/B0324.svg,Katalog rancangan,4
+B0325,Akuntansi Pemerintahan: Studi Kasus Indonesia,Data katalog rancangan,Akuntansi,SIM-000325,2026,Koleksi rancangan,Rak P-07,120000,./covers/B0325.svg,Katalog rancangan,2
+B0326,Akuntansi Pemerintahan: Praktik Lapangan,Data katalog rancangan,Akuntansi,SIM-000326,2026,Koleksi rancangan,Rak P-08,120000,./covers/B0326.svg,Katalog rancangan,3
+B0327,Akuntansi Pemerintahan: Manajemen Proses,Data katalog rancangan,Akuntansi,SIM-000327,2026,Koleksi rancangan,Rak P-09,120000,./covers/B0327.svg,Katalog rancangan,4
+B0328,Akuntansi Pemerintahan: Pengendalian dan Pengawasan,Data katalog rancangan,Akuntansi,SIM-000328,2026,Koleksi rancangan,Rak P-10,120000,./covers/B0328.svg,Katalog rancangan,2
+B0329,Akuntansi Pemerintahan: Pelaporan,Data katalog rancangan,Akuntansi,SIM-000329,2026,Koleksi rancangan,Rak P-11,120000,./covers/B0329.svg,Katalog rancangan,3
+B0330,Akuntansi Pemerintahan: Inovasi Digital,Data katalog rancangan,Akuntansi,SIM-000330,2026,Koleksi rancangan,Rak P-12,120000,./covers/B0330.svg,Katalog rancangan,4
+B0331,Akuntansi Pemerintahan: Metode Kuantitatif,Data katalog rancangan,Akuntansi,SIM-000331,2026,Koleksi rancangan,Rak P-13,120000,./covers/B0331.svg,Katalog rancangan,2
+B0332,Akuntansi Pemerintahan: Metode Kualitatif,Data katalog rancangan,Akuntansi,SIM-000332,2026,Koleksi rancangan,Rak P-14,120000,./covers/B0332.svg,Katalog rancangan,3
+B0333,Akuntansi Pemerintahan: Manajemen Risiko,Data katalog rancangan,Akuntansi,SIM-000333,2026,Koleksi rancangan,Rak P-15,120000,./covers/B0333.svg,Katalog rancangan,4
+B0334,Akuntansi Pemerintahan: Evaluasi Kebijakan,Data katalog rancangan,Akuntansi,SIM-000334,2026,Koleksi rancangan,Rak P-16,120000,./covers/B0334.svg,Katalog rancangan,2
+B0335,Akuntansi Pemerintahan: Transparansi dan Akuntabilitas,Data katalog rancangan,Akuntansi,SIM-000335,2026,Koleksi rancangan,Rak P-17,120000,./covers/B0335.svg,Katalog rancangan,3
+B0336,Akuntansi Pemerintahan: Pelayanan dan Pengguna,Data katalog rancangan,Akuntansi,SIM-000336,2026,Koleksi rancangan,Rak P-18,120000,./covers/B0336.svg,Katalog rancangan,4
+B0337,Akuntansi Pemerintahan: Perancangan Sistem,Data katalog rancangan,Akuntansi,SIM-000337,2026,Koleksi rancangan,Rak P-19,120000,./covers/B0337.svg,Katalog rancangan,2
+B0338,Akuntansi Pemerintahan: Isu Kontemporer,Data katalog rancangan,Akuntansi,SIM-000338,2026,Koleksi rancangan,Rak P-20,120000,./covers/B0338.svg,Katalog rancangan,3
+B0339,Metode Penelitian: Pengantar dan Kerangka Konseptual,Data katalog rancangan,Metodologi,SIM-000339,2026,Koleksi rancangan,Rak Q-01,135000,./covers/B0339.svg,Katalog rancangan,2
+B0340,Metode Penelitian: Perencanaan dan Strategi,Data katalog rancangan,Metodologi,SIM-000340,2026,Koleksi rancangan,Rak Q-02,135000,./covers/B0340.svg,Katalog rancangan,3
+B0341,Metode Penelitian: Pencatatan dan Dokumentasi,Data katalog rancangan,Metodologi,SIM-000341,2026,Koleksi rancangan,Rak Q-03,135000,./covers/B0341.svg,Katalog rancangan,4
+B0342,Metode Penelitian: Analisis Data,Data katalog rancangan,Metodologi,SIM-000342,2026,Koleksi rancangan,Rak Q-04,135000,./covers/B0342.svg,Katalog rancangan,2
+B0343,Metode Penelitian: Pengukuran Kinerja,Data katalog rancangan,Metodologi,SIM-000343,2026,Koleksi rancangan,Rak Q-05,135000,./covers/B0343.svg,Katalog rancangan,3
+B0344,Metode Penelitian: Regulasi dan Kepatuhan,Data katalog rancangan,Metodologi,SIM-000344,2026,Koleksi rancangan,Rak Q-06,135000,./covers/B0344.svg,Katalog rancangan,4
+B0345,Metode Penelitian: Studi Kasus Indonesia,Data katalog rancangan,Metodologi,SIM-000345,2026,Koleksi rancangan,Rak Q-07,135000,./covers/B0345.svg,Katalog rancangan,2
+B0346,Metode Penelitian: Praktik Lapangan,Data katalog rancangan,Metodologi,SIM-000346,2026,Koleksi rancangan,Rak Q-08,135000,./covers/B0346.svg,Katalog rancangan,3
+B0347,Metode Penelitian: Manajemen Proses,Data katalog rancangan,Metodologi,SIM-000347,2026,Koleksi rancangan,Rak Q-09,135000,./covers/B0347.svg,Katalog rancangan,4
+B0348,Metode Penelitian: Pengendalian dan Pengawasan,Data katalog rancangan,Metodologi,SIM-000348,2026,Koleksi rancangan,Rak Q-10,135000,./covers/B0348.svg,Katalog rancangan,2
+B0349,Metode Penelitian: Pelaporan,Data katalog rancangan,Metodologi,SIM-000349,2026,Koleksi rancangan,Rak Q-11,135000,./covers/B0349.svg,Katalog rancangan,3
+B0350,Metode Penelitian: Inovasi Digital,Data katalog rancangan,Metodologi,SIM-000350,2026,Koleksi rancangan,Rak Q-12,135000,./covers/B0350.svg,Katalog rancangan,4
+B0351,Metode Penelitian: Metode Kuantitatif,Data katalog rancangan,Metodologi,SIM-000351,2026,Koleksi rancangan,Rak Q-13,135000,./covers/B0351.svg,Katalog rancangan,2
+B0352,Metode Penelitian: Metode Kualitatif,Data katalog rancangan,Metodologi,SIM-000352,2026,Koleksi rancangan,Rak Q-14,135000,./covers/B0352.svg,Katalog rancangan,3
+B0353,Metode Penelitian: Manajemen Risiko,Data katalog rancangan,Metodologi,SIM-000353,2026,Koleksi rancangan,Rak Q-15,135000,./covers/B0353.svg,Katalog rancangan,4
+B0354,Metode Penelitian: Evaluasi Kebijakan,Data katalog rancangan,Metodologi,SIM-000354,2026,Koleksi rancangan,Rak Q-16,135000,./covers/B0354.svg,Katalog rancangan,2
+B0355,Metode Penelitian: Transparansi dan Akuntabilitas,Data katalog rancangan,Metodologi,SIM-000355,2026,Koleksi rancangan,Rak Q-17,135000,./covers/B0355.svg,Katalog rancangan,3
+B0356,Metode Penelitian: Pelayanan dan Pengguna,Data katalog rancangan,Metodologi,SIM-000356,2026,Koleksi rancangan,Rak Q-18,135000,./covers/B0356.svg,Katalog rancangan,4
+B0357,Metode Penelitian: Perancangan Sistem,Data katalog rancangan,Metodologi,SIM-000357,2026,Koleksi rancangan,Rak Q-19,135000,./covers/B0357.svg,Katalog rancangan,2
+B0358,Metode Penelitian: Isu Kontemporer,Data katalog rancangan,Metodologi,SIM-000358,2026,Koleksi rancangan,Rak Q-20,135000,./covers/B0358.svg,Katalog rancangan,3
+B0359,Pelayanan Publik: Pengantar dan Kerangka Konseptual,Data katalog rancangan,Administrasi,SIM-000359,2026,Koleksi rancangan,Rak R-01,150000,./covers/B0359.svg,Katalog rancangan,2
+B0360,Pelayanan Publik: Perencanaan dan Strategi,Data katalog rancangan,Administrasi,SIM-000360,2026,Koleksi rancangan,Rak R-02,150000,./covers/B0360.svg,Katalog rancangan,3
+B0361,Pelayanan Publik: Pencatatan dan Dokumentasi,Data katalog rancangan,Administrasi,SIM-000361,2026,Koleksi rancangan,Rak R-03,150000,./covers/B0361.svg,Katalog rancangan,4
+B0362,Pelayanan Publik: Analisis Data,Data katalog rancangan,Administrasi,SIM-000362,2026,Koleksi rancangan,Rak R-04,150000,./covers/B0362.svg,Katalog rancangan,2
+B0363,Pelayanan Publik: Pengukuran Kinerja,Data katalog rancangan,Administrasi,SIM-000363,2026,Koleksi rancangan,Rak R-05,150000,./covers/B0363.svg,Katalog rancangan,3
+B0364,Pelayanan Publik: Regulasi dan Kepatuhan,Data katalog rancangan,Administrasi,SIM-000364,2026,Koleksi rancangan,Rak R-06,150000,./covers/B0364.svg,Katalog rancangan,4
+B0365,Pelayanan Publik: Studi Kasus Indonesia,Data katalog rancangan,Administrasi,SIM-000365,2026,Koleksi rancangan,Rak R-07,150000,./covers/B0365.svg,Katalog rancangan,2
+B0366,Pelayanan Publik: Praktik Lapangan,Data katalog rancangan,Administrasi,SIM-000366,2026,Koleksi rancangan,Rak R-08,150000,./covers/B0366.svg,Katalog rancangan,3
+B0367,Pelayanan Publik: Manajemen Proses,Data katalog rancangan,Administrasi,SIM-000367,2026,Koleksi rancangan,Rak R-09,150000,./covers/B0367.svg,Katalog rancangan,4
+B0368,Pelayanan Publik: Pengendalian dan Pengawasan,Data katalog rancangan,Administrasi,SIM-000368,2026,Koleksi rancangan,Rak R-10,150000,./covers/B0368.svg,Katalog rancangan,2
+B0369,Pelayanan Publik: Pelaporan,Data katalog rancangan,Administrasi,SIM-000369,2026,Koleksi rancangan,Rak R-11,150000,./covers/B0369.svg,Katalog rancangan,3
+B0370,Pelayanan Publik: Inovasi Digital,Data katalog rancangan,Administrasi,SIM-000370,2026,Koleksi rancangan,Rak R-12,150000,./covers/B0370.svg,Katalog rancangan,4
+B0371,Pelayanan Publik: Metode Kuantitatif,Data katalog rancangan,Administrasi,SIM-000371,2026,Koleksi rancangan,Rak R-13,150000,./covers/B0371.svg,Katalog rancangan,2
+B0372,Pelayanan Publik: Metode Kualitatif,Data katalog rancangan,Administrasi,SIM-000372,2026,Koleksi rancangan,Rak R-14,150000,./covers/B0372.svg,Katalog rancangan,3
+B0373,Pelayanan Publik: Manajemen Risiko,Data katalog rancangan,Administrasi,SIM-000373,2026,Koleksi rancangan,Rak R-15,150000,./covers/B0373.svg,Katalog rancangan,4
+B0374,Pelayanan Publik: Evaluasi Kebijakan,Data katalog rancangan,Administrasi,SIM-000374,2026,Koleksi rancangan,Rak R-16,150000,./covers/B0374.svg,Katalog rancangan,2
+B0375,Pelayanan Publik: Transparansi dan Akuntabilitas,Data katalog rancangan,Administrasi,SIM-000375,2026,Koleksi rancangan,Rak R-17,150000,./covers/B0375.svg,Katalog rancangan,3
+B0376,Pelayanan Publik: Pelayanan dan Pengguna,Data katalog rancangan,Administrasi,SIM-000376,2026,Koleksi rancangan,Rak R-18,150000,./covers/B0376.svg,Katalog rancangan,4
+B0377,Pelayanan Publik: Perancangan Sistem,Data katalog rancangan,Administrasi,SIM-000377,2026,Koleksi rancangan,Rak R-19,150000,./covers/B0377.svg,Katalog rancangan,2
+B0378,Pelayanan Publik: Isu Kontemporer,Data katalog rancangan,Administrasi,SIM-000378,2026,Koleksi rancangan,Rak R-20,150000,./covers/B0378.svg,Katalog rancangan,3
+B0379,Kebijakan Fiskal: Pengantar dan Kerangka Konseptual,Data katalog rancangan,Ekonomi,SIM-000379,2026,Koleksi rancangan,Rak S-01,75000,./covers/B0379.svg,Katalog rancangan,2
+B0380,Kebijakan Fiskal: Perencanaan dan Strategi,Data katalog rancangan,Ekonomi,SIM-000380,2026,Koleksi rancangan,Rak S-02,75000,./covers/B0380.svg,Katalog rancangan,3
+B0381,Kebijakan Fiskal: Pencatatan dan Dokumentasi,Data katalog rancangan,Ekonomi,SIM-000381,2026,Koleksi rancangan,Rak S-03,75000,./covers/B0381.svg,Katalog rancangan,4
+B0382,Kebijakan Fiskal: Analisis Data,Data katalog rancangan,Ekonomi,SIM-000382,2026,Koleksi rancangan,Rak S-04,75000,./covers/B0382.svg,Katalog rancangan,2
+B0383,Kebijakan Fiskal: Pengukuran Kinerja,Data katalog rancangan,Ekonomi,SIM-000383,2026,Koleksi rancangan,Rak S-05,75000,./covers/B0383.svg,Katalog rancangan,3
+B0384,Kebijakan Fiskal: Regulasi dan Kepatuhan,Data katalog rancangan,Ekonomi,SIM-000384,2026,Koleksi rancangan,Rak S-06,75000,./covers/B0384.svg,Katalog rancangan,4
+B0385,Kebijakan Fiskal: Studi Kasus Indonesia,Data katalog rancangan,Ekonomi,SIM-000385,2026,Koleksi rancangan,Rak S-07,75000,./covers/B0385.svg,Katalog rancangan,2
+B0386,Kebijakan Fiskal: Praktik Lapangan,Data katalog rancangan,Ekonomi,SIM-000386,2026,Koleksi rancangan,Rak S-08,75000,./covers/B0386.svg,Katalog rancangan,3
+B0387,Kebijakan Fiskal: Manajemen Proses,Data katalog rancangan,Ekonomi,SIM-000387,2026,Koleksi rancangan,Rak S-09,75000,./covers/B0387.svg,Katalog rancangan,4
+B0388,Kebijakan Fiskal: Pengendalian dan Pengawasan,Data katalog rancangan,Ekonomi,SIM-000388,2026,Koleksi rancangan,Rak S-10,75000,./covers/B0388.svg,Katalog rancangan,2
+B0389,Kebijakan Fiskal: Pelaporan,Data katalog rancangan,Ekonomi,SIM-000389,2026,Koleksi rancangan,Rak S-11,75000,./covers/B0389.svg,Katalog rancangan,3
+B0390,Kebijakan Fiskal: Inovasi Digital,Data katalog rancangan,Ekonomi,SIM-000390,2026,Koleksi rancangan,Rak S-12,75000,./covers/B0390.svg,Katalog rancangan,4
+B0391,Kebijakan Fiskal: Metode Kuantitatif,Data katalog rancangan,Ekonomi,SIM-000391,2026,Koleksi rancangan,Rak S-13,75000,./covers/B0391.svg,Katalog rancangan,2
+B0392,Kebijakan Fiskal: Metode Kualitatif,Data katalog rancangan,Ekonomi,SIM-000392,2026,Koleksi rancangan,Rak S-14,75000,./covers/B0392.svg,Katalog rancangan,3
+B0393,Kebijakan Fiskal: Manajemen Risiko,Data katalog rancangan,Ekonomi,SIM-000393,2026,Koleksi rancangan,Rak S-15,75000,./covers/B0393.svg,Katalog rancangan,4
+B0394,Kebijakan Fiskal: Evaluasi Kebijakan,Data katalog rancangan,Ekonomi,SIM-000394,2026,Koleksi rancangan,Rak S-16,75000,./covers/B0394.svg,Katalog rancangan,2
+B0395,Kebijakan Fiskal: Transparansi dan Akuntabilitas,Data katalog rancangan,Ekonomi,SIM-000395,2026,Koleksi rancangan,Rak S-17,75000,./covers/B0395.svg,Katalog rancangan,3
+B0396,Kebijakan Fiskal: Pelayanan dan Pengguna,Data katalog rancangan,Ekonomi,SIM-000396,2026,Koleksi rancangan,Rak S-18,75000,./covers/B0396.svg,Katalog rancangan,4
+B0397,Kebijakan Fiskal: Perancangan Sistem,Data katalog rancangan,Ekonomi,SIM-000397,2026,Koleksi rancangan,Rak S-19,75000,./covers/B0397.svg,Katalog rancangan,2
+B0398,Kebijakan Fiskal: Isu Kontemporer,Data katalog rancangan,Ekonomi,SIM-000398,2026,Koleksi rancangan,Rak S-20,75000,./covers/B0398.svg,Katalog rancangan,3
+B0399,Pengendalian Internal: Pengantar dan Kerangka Konseptual,Data katalog rancangan,Audit,SIM-000399,2026,Koleksi rancangan,Rak T-01,90000,./covers/B0399.svg,Katalog rancangan,2
+B0400,Pengendalian Internal: Perencanaan dan Strategi,Data katalog rancangan,Audit,SIM-000400,2026,Koleksi rancangan,Rak T-02,90000,./covers/B0400.svg,Katalog rancangan,3
+B0401,Pengendalian Internal: Pencatatan dan Dokumentasi,Data katalog rancangan,Audit,SIM-000401,2026,Koleksi rancangan,Rak T-03,90000,./covers/B0401.svg,Katalog rancangan,4
+B0402,Pengendalian Internal: Analisis Data,Data katalog rancangan,Audit,SIM-000402,2026,Koleksi rancangan,Rak T-04,90000,./covers/B0402.svg,Katalog rancangan,2
+B0403,Pengendalian Internal: Pengukuran Kinerja,Data katalog rancangan,Audit,SIM-000403,2026,Koleksi rancangan,Rak T-05,90000,./covers/B0403.svg,Katalog rancangan,3
+B0404,Pengendalian Internal: Regulasi dan Kepatuhan,Data katalog rancangan,Audit,SIM-000404,2026,Koleksi rancangan,Rak T-06,90000,./covers/B0404.svg,Katalog rancangan,4
+B0405,Pengendalian Internal: Studi Kasus Indonesia,Data katalog rancangan,Audit,SIM-000405,2026,Koleksi rancangan,Rak T-07,90000,./covers/B0405.svg,Katalog rancangan,2
+B0406,Pengendalian Internal: Praktik Lapangan,Data katalog rancangan,Audit,SIM-000406,2026,Koleksi rancangan,Rak T-08,90000,./covers/B0406.svg,Katalog rancangan,3
+B0407,Pengendalian Internal: Manajemen Proses,Data katalog rancangan,Audit,SIM-000407,2026,Koleksi rancangan,Rak T-09,90000,./covers/B0407.svg,Katalog rancangan,4
+B0408,Pengendalian Internal: Pengendalian dan Pengawasan,Data katalog rancangan,Audit,SIM-000408,2026,Koleksi rancangan,Rak T-10,90000,./covers/B0408.svg,Katalog rancangan,2
+B0409,Pengendalian Internal: Pelaporan,Data katalog rancangan,Audit,SIM-000409,2026,Koleksi rancangan,Rak T-11,90000,./covers/B0409.svg,Katalog rancangan,3
+B0410,Pengendalian Internal: Inovasi Digital,Data katalog rancangan,Audit,SIM-000410,2026,Koleksi rancangan,Rak T-12,90000,./covers/B0410.svg,Katalog rancangan,4
+B0411,Pengendalian Internal: Metode Kuantitatif,Data katalog rancangan,Audit,SIM-000411,2026,Koleksi rancangan,Rak T-13,90000,./covers/B0411.svg,Katalog rancangan,2
+B0412,Pengendalian Internal: Metode Kualitatif,Data katalog rancangan,Audit,SIM-000412,2026,Koleksi rancangan,Rak T-14,90000,./covers/B0412.svg,Katalog rancangan,3
+B0413,Pengendalian Internal: Manajemen Risiko,Data katalog rancangan,Audit,SIM-000413,2026,Koleksi rancangan,Rak T-15,90000,./covers/B0413.svg,Katalog rancangan,4
+B0414,Pengendalian Internal: Evaluasi Kebijakan,Data katalog rancangan,Audit,SIM-000414,2026,Koleksi rancangan,Rak T-16,90000,./covers/B0414.svg,Katalog rancangan,2
+B0415,Pengendalian Internal: Transparansi dan Akuntabilitas,Data katalog rancangan,Audit,SIM-000415,2026,Koleksi rancangan,Rak T-17,90000,./covers/B0415.svg,Katalog rancangan,3
+B0416,Pengendalian Internal: Pelayanan dan Pengguna,Data katalog rancangan,Audit,SIM-000416,2026,Koleksi rancangan,Rak T-18,90000,./covers/B0416.svg,Katalog rancangan,4
+B0417,Pengendalian Internal: Perancangan Sistem,Data katalog rancangan,Audit,SIM-000417,2026,Koleksi rancangan,Rak T-19,90000,./covers/B0417.svg,Katalog rancangan,2
+B0418,Pengendalian Internal: Isu Kontemporer,Data katalog rancangan,Audit,SIM-000418,2026,Koleksi rancangan,Rak T-20,90000,./covers/B0418.svg,Katalog rancangan,3
+B0419,Keuangan Daerah: Pengantar dan Kerangka Konseptual,Data katalog rancangan,Keuangan Publik,SIM-000419,2026,Koleksi rancangan,Rak U-01,105000,./covers/B0419.svg,Katalog rancangan,2
+B0420,Keuangan Daerah: Perencanaan dan Strategi,Data katalog rancangan,Keuangan Publik,SIM-000420,2026,Koleksi rancangan,Rak U-02,105000,./covers/B0420.svg,Katalog rancangan,3
+B0421,Keuangan Daerah: Pencatatan dan Dokumentasi,Data katalog rancangan,Keuangan Publik,SIM-000421,2026,Koleksi rancangan,Rak U-03,105000,./covers/B0421.svg,Katalog rancangan,4
+B0422,Keuangan Daerah: Analisis Data,Data katalog rancangan,Keuangan Publik,SIM-000422,2026,Koleksi rancangan,Rak U-04,105000,./covers/B0422.svg,Katalog rancangan,2
+B0423,Keuangan Daerah: Pengukuran Kinerja,Data katalog rancangan,Keuangan Publik,SIM-000423,2026,Koleksi rancangan,Rak U-05,105000,./covers/B0423.svg,Katalog rancangan,3
+B0424,Keuangan Daerah: Regulasi dan Kepatuhan,Data katalog rancangan,Keuangan Publik,SIM-000424,2026,Koleksi rancangan,Rak U-06,105000,./covers/B0424.svg,Katalog rancangan,4
+B0425,Keuangan Daerah: Studi Kasus Indonesia,Data katalog rancangan,Keuangan Publik,SIM-000425,2026,Koleksi rancangan,Rak U-07,105000,./covers/B0425.svg,Katalog rancangan,2
+B0426,Keuangan Daerah: Praktik Lapangan,Data katalog rancangan,Keuangan Publik,SIM-000426,2026,Koleksi rancangan,Rak U-08,105000,./covers/B0426.svg,Katalog rancangan,3
+B0427,Keuangan Daerah: Manajemen Proses,Data katalog rancangan,Keuangan Publik,SIM-000427,2026,Koleksi rancangan,Rak U-09,105000,./covers/B0427.svg,Katalog rancangan,4
+B0428,Keuangan Daerah: Pengendalian dan Pengawasan,Data katalog rancangan,Keuangan Publik,SIM-000428,2026,Koleksi rancangan,Rak U-10,105000,./covers/B0428.svg,Katalog rancangan,2
+B0429,Keuangan Daerah: Pelaporan,Data katalog rancangan,Keuangan Publik,SIM-000429,2026,Koleksi rancangan,Rak U-11,105000,./covers/B0429.svg,Katalog rancangan,3
+B0430,Keuangan Daerah: Inovasi Digital,Data katalog rancangan,Keuangan Publik,SIM-000430,2026,Koleksi rancangan,Rak U-12,105000,./covers/B0430.svg,Katalog rancangan,4
+B0431,Keuangan Daerah: Metode Kuantitatif,Data katalog rancangan,Keuangan Publik,SIM-000431,2026,Koleksi rancangan,Rak U-13,105000,./covers/B0431.svg,Katalog rancangan,2
+B0432,Keuangan Daerah: Metode Kualitatif,Data katalog rancangan,Keuangan Publik,SIM-000432,2026,Koleksi rancangan,Rak U-14,105000,./covers/B0432.svg,Katalog rancangan,3
+B0433,Keuangan Daerah: Manajemen Risiko,Data katalog rancangan,Keuangan Publik,SIM-000433,2026,Koleksi rancangan,Rak U-15,105000,./covers/B0433.svg,Katalog rancangan,4
+B0434,Keuangan Daerah: Evaluasi Kebijakan,Data katalog rancangan,Keuangan Publik,SIM-000434,2026,Koleksi rancangan,Rak U-16,105000,./covers/B0434.svg,Katalog rancangan,2
+B0435,Keuangan Daerah: Transparansi dan Akuntabilitas,Data katalog rancangan,Keuangan Publik,SIM-000435,2026,Koleksi rancangan,Rak U-17,105000,./covers/B0435.svg,Katalog rancangan,3
+B0436,Keuangan Daerah: Pelayanan dan Pengguna,Data katalog rancangan,Keuangan Publik,SIM-000436,2026,Koleksi rancangan,Rak U-18,105000,./covers/B0436.svg,Katalog rancangan,4
+B0437,Keuangan Daerah: Perancangan Sistem,Data katalog rancangan,Keuangan Publik,SIM-000437,2026,Koleksi rancangan,Rak U-19,105000,./covers/B0437.svg,Katalog rancangan,2
+B0438,Keuangan Daerah: Isu Kontemporer,Data katalog rancangan,Keuangan Publik,SIM-000438,2026,Koleksi rancangan,Rak U-20,105000,./covers/B0438.svg,Katalog rancangan,3
+B0439,Etika Profesi: Pengantar dan Kerangka Konseptual,Data katalog rancangan,Administrasi,SIM-000439,2026,Koleksi rancangan,Rak V-01,120000,./covers/B0439.svg,Katalog rancangan,2
+B0440,Etika Profesi: Perencanaan dan Strategi,Data katalog rancangan,Administrasi,SIM-000440,2026,Koleksi rancangan,Rak V-02,120000,./covers/B0440.svg,Katalog rancangan,3
+B0441,Etika Profesi: Pencatatan dan Dokumentasi,Data katalog rancangan,Administrasi,SIM-000441,2026,Koleksi rancangan,Rak V-03,120000,./covers/B0441.svg,Katalog rancangan,4
+B0442,Etika Profesi: Analisis Data,Data katalog rancangan,Administrasi,SIM-000442,2026,Koleksi rancangan,Rak V-04,120000,./covers/B0442.svg,Katalog rancangan,2
+B0443,Etika Profesi: Pengukuran Kinerja,Data katalog rancangan,Administrasi,SIM-000443,2026,Koleksi rancangan,Rak V-05,120000,./covers/B0443.svg,Katalog rancangan,3
+B0444,Etika Profesi: Regulasi dan Kepatuhan,Data katalog rancangan,Administrasi,SIM-000444,2026,Koleksi rancangan,Rak V-06,120000,./covers/B0444.svg,Katalog rancangan,4
+B0445,Etika Profesi: Studi Kasus Indonesia,Data katalog rancangan,Administrasi,SIM-000445,2026,Koleksi rancangan,Rak V-07,120000,./covers/B0445.svg,Katalog rancangan,2
+B0446,Etika Profesi: Praktik Lapangan,Data katalog rancangan,Administrasi,SIM-000446,2026,Koleksi rancangan,Rak V-08,120000,./covers/B0446.svg,Katalog rancangan,3
+B0447,Etika Profesi: Manajemen Proses,Data katalog rancangan,Administrasi,SIM-000447,2026,Koleksi rancangan,Rak V-09,120000,./covers/B0447.svg,Katalog rancangan,4
+B0448,Etika Profesi: Pengendalian dan Pengawasan,Data katalog rancangan,Administrasi,SIM-000448,2026,Koleksi rancangan,Rak V-10,120000,./covers/B0448.svg,Katalog rancangan,2
+B0449,Etika Profesi: Pelaporan,Data katalog rancangan,Administrasi,SIM-000449,2026,Koleksi rancangan,Rak V-11,120000,./covers/B0449.svg,Katalog rancangan,3
+B0450,Etika Profesi: Inovasi Digital,Data katalog rancangan,Administrasi,SIM-000450,2026,Koleksi rancangan,Rak V-12,120000,./covers/B0450.svg,Katalog rancangan,4
+B0451,Etika Profesi: Metode Kuantitatif,Data katalog rancangan,Administrasi,SIM-000451,2026,Koleksi rancangan,Rak V-13,120000,./covers/B0451.svg,Katalog rancangan,2
+B0452,Etika Profesi: Metode Kualitatif,Data katalog rancangan,Administrasi,SIM-000452,2026,Koleksi rancangan,Rak V-14,120000,./covers/B0452.svg,Katalog rancangan,3
+B0453,Etika Profesi: Manajemen Risiko,Data katalog rancangan,Administrasi,SIM-000453,2026,Koleksi rancangan,Rak V-15,120000,./covers/B0453.svg,Katalog rancangan,4
+B0454,Etika Profesi: Evaluasi Kebijakan,Data katalog rancangan,Administrasi,SIM-000454,2026,Koleksi rancangan,Rak V-16,120000,./covers/B0454.svg,Katalog rancangan,2
+B0455,Etika Profesi: Transparansi dan Akuntabilitas,Data katalog rancangan,Administrasi,SIM-000455,2026,Koleksi rancangan,Rak V-17,120000,./covers/B0455.svg,Katalog rancangan,3
+B0456,Etika Profesi: Pelayanan dan Pengguna,Data katalog rancangan,Administrasi,SIM-000456,2026,Koleksi rancangan,Rak V-18,120000,./covers/B0456.svg,Katalog rancangan,4
+B0457,Etika Profesi: Perancangan Sistem,Data katalog rancangan,Administrasi,SIM-000457,2026,Koleksi rancangan,Rak V-19,120000,./covers/B0457.svg,Katalog rancangan,2
+B0458,Etika Profesi: Isu Kontemporer,Data katalog rancangan,Administrasi,SIM-000458,2026,Koleksi rancangan,Rak V-20,120000,./covers/B0458.svg,Katalog rancangan,3
+B0459,Perbendaharaan Negara: Pengantar dan Kerangka Konseptual,Data katalog rancangan,Keuangan Publik,SIM-000459,2026,Koleksi rancangan,Rak W-01,135000,./covers/B0459.svg,Katalog rancangan,2
+B0460,Perbendaharaan Negara: Perencanaan dan Strategi,Data katalog rancangan,Keuangan Publik,SIM-000460,2026,Koleksi rancangan,Rak W-02,135000,./covers/B0460.svg,Katalog rancangan,3
+B0461,Perbendaharaan Negara: Pencatatan dan Dokumentasi,Data katalog rancangan,Keuangan Publik,SIM-000461,2026,Koleksi rancangan,Rak W-03,135000,./covers/B0461.svg,Katalog rancangan,4
+B0462,Perbendaharaan Negara: Analisis Data,Data katalog rancangan,Keuangan Publik,SIM-000462,2026,Koleksi rancangan,Rak W-04,135000,./covers/B0462.svg,Katalog rancangan,2
+B0463,Perbendaharaan Negara: Pengukuran Kinerja,Data katalog rancangan,Keuangan Publik,SIM-000463,2026,Koleksi rancangan,Rak W-05,135000,./covers/B0463.svg,Katalog rancangan,3
+B0464,Perbendaharaan Negara: Regulasi dan Kepatuhan,Data katalog rancangan,Keuangan Publik,SIM-000464,2026,Koleksi rancangan,Rak W-06,135000,./covers/B0464.svg,Katalog rancangan,4
+B0465,Perbendaharaan Negara: Studi Kasus Indonesia,Data katalog rancangan,Keuangan Publik,SIM-000465,2026,Koleksi rancangan,Rak W-07,135000,./covers/B0465.svg,Katalog rancangan,2
+B0466,Perbendaharaan Negara: Praktik Lapangan,Data katalog rancangan,Keuangan Publik,SIM-000466,2026,Koleksi rancangan,Rak W-08,135000,./covers/B0466.svg,Katalog rancangan,3
+B0467,Perbendaharaan Negara: Manajemen Proses,Data katalog rancangan,Keuangan Publik,SIM-000467,2026,Koleksi rancangan,Rak W-09,135000,./covers/B0467.svg,Katalog rancangan,4
+B0468,Perbendaharaan Negara: Pengendalian dan Pengawasan,Data katalog rancangan,Keuangan Publik,SIM-000468,2026,Koleksi rancangan,Rak W-10,135000,./covers/B0468.svg,Katalog rancangan,2
+B0469,Perbendaharaan Negara: Pelaporan,Data katalog rancangan,Keuangan Publik,SIM-000469,2026,Koleksi rancangan,Rak W-11,135000,./covers/B0469.svg,Katalog rancangan,3
+B0470,Perbendaharaan Negara: Inovasi Digital,Data katalog rancangan,Keuangan Publik,SIM-000470,2026,Koleksi rancangan,Rak W-12,135000,./covers/B0470.svg,Katalog rancangan,4
+B0471,Perbendaharaan Negara: Metode Kuantitatif,Data katalog rancangan,Keuangan Publik,SIM-000471,2026,Koleksi rancangan,Rak W-13,135000,./covers/B0471.svg,Katalog rancangan,2
+B0472,Perbendaharaan Negara: Metode Kualitatif,Data katalog rancangan,Keuangan Publik,SIM-000472,2026,Koleksi rancangan,Rak W-14,135000,./covers/B0472.svg,Katalog rancangan,3
+B0473,Perbendaharaan Negara: Manajemen Risiko,Data katalog rancangan,Keuangan Publik,SIM-000473,2026,Koleksi rancangan,Rak W-15,135000,./covers/B0473.svg,Katalog rancangan,4
+B0474,Perbendaharaan Negara: Evaluasi Kebijakan,Data katalog rancangan,Keuangan Publik,SIM-000474,2026,Koleksi rancangan,Rak W-16,135000,./covers/B0474.svg,Katalog rancangan,2
+B0475,Perbendaharaan Negara: Transparansi dan Akuntabilitas,Data katalog rancangan,Keuangan Publik,SIM-000475,2026,Koleksi rancangan,Rak W-17,135000,./covers/B0475.svg,Katalog rancangan,3
+B0476,Perbendaharaan Negara: Pelayanan dan Pengguna,Data katalog rancangan,Keuangan Publik,SIM-000476,2026,Koleksi rancangan,Rak W-18,135000,./covers/B0476.svg,Katalog rancangan,4
+B0477,Perbendaharaan Negara: Perancangan Sistem,Data katalog rancangan,Keuangan Publik,SIM-000477,2026,Koleksi rancangan,Rak W-19,135000,./covers/B0477.svg,Katalog rancangan,2
+B0478,Perbendaharaan Negara: Isu Kontemporer,Data katalog rancangan,Keuangan Publik,SIM-000478,2026,Koleksi rancangan,Rak W-20,135000,./covers/B0478.svg,Katalog rancangan,3
+B0479,Hukum Pajak: Pengantar dan Kerangka Konseptual,Data katalog rancangan,Hukum,SIM-000479,2026,Koleksi rancangan,Rak X-01,150000,./covers/B0479.svg,Katalog rancangan,2
+B0480,Hukum Pajak: Perencanaan dan Strategi,Data katalog rancangan,Hukum,SIM-000480,2026,Koleksi rancangan,Rak X-02,150000,./covers/B0480.svg,Katalog rancangan,3
+B0481,Hukum Pajak: Pencatatan dan Dokumentasi,Data katalog rancangan,Hukum,SIM-000481,2026,Koleksi rancangan,Rak X-03,150000,./covers/B0481.svg,Katalog rancangan,4
+B0482,Hukum Pajak: Analisis Data,Data katalog rancangan,Hukum,SIM-000482,2026,Koleksi rancangan,Rak X-04,150000,./covers/B0482.svg,Katalog rancangan,2
+B0483,Hukum Pajak: Pengukuran Kinerja,Data katalog rancangan,Hukum,SIM-000483,2026,Koleksi rancangan,Rak X-05,150000,./covers/B0483.svg,Katalog rancangan,3
+B0484,Hukum Pajak: Regulasi dan Kepatuhan,Data katalog rancangan,Hukum,SIM-000484,2026,Koleksi rancangan,Rak X-06,150000,./covers/B0484.svg,Katalog rancangan,4
+B0485,Hukum Pajak: Studi Kasus Indonesia,Data katalog rancangan,Hukum,SIM-000485,2026,Koleksi rancangan,Rak X-07,150000,./covers/B0485.svg,Katalog rancangan,2
+B0486,Hukum Pajak: Praktik Lapangan,Data katalog rancangan,Hukum,SIM-000486,2026,Koleksi rancangan,Rak X-08,150000,./covers/B0486.svg,Katalog rancangan,3
+B0487,Hukum Pajak: Manajemen Proses,Data katalog rancangan,Hukum,SIM-000487,2026,Koleksi rancangan,Rak X-09,150000,./covers/B0487.svg,Katalog rancangan,4
+B0488,Hukum Pajak: Pengendalian dan Pengawasan,Data katalog rancangan,Hukum,SIM-000488,2026,Koleksi rancangan,Rak X-10,150000,./covers/B0488.svg,Katalog rancangan,2
+B0489,Hukum Pajak: Pelaporan,Data katalog rancangan,Hukum,SIM-000489,2026,Koleksi rancangan,Rak X-11,150000,./covers/B0489.svg,Katalog rancangan,3
+B0490,Hukum Pajak: Inovasi Digital,Data katalog rancangan,Hukum,SIM-000490,2026,Koleksi rancangan,Rak X-12,150000,./covers/B0490.svg,Katalog rancangan,4
+B0491,Hukum Pajak: Metode Kuantitatif,Data katalog rancangan,Hukum,SIM-000491,2026,Koleksi rancangan,Rak X-13,150000,./covers/B0491.svg,Katalog rancangan,2
+B0492,Hukum Pajak: Metode Kualitatif,Data katalog rancangan,Hukum,SIM-000492,2026,Koleksi rancangan,Rak X-14,150000,./covers/B0492.svg,Katalog rancangan,3
+B0493,Hukum Pajak: Manajemen Risiko,Data katalog rancangan,Hukum,SIM-000493,2026,Koleksi rancangan,Rak X-15,150000,./covers/B0493.svg,Katalog rancangan,4
+B0494,Hukum Pajak: Evaluasi Kebijakan,Data katalog rancangan,Hukum,SIM-000494,2026,Koleksi rancangan,Rak X-16,150000,./covers/B0494.svg,Katalog rancangan,2
+B0495,Hukum Pajak: Transparansi dan Akuntabilitas,Data katalog rancangan,Hukum,SIM-000495,2026,Koleksi rancangan,Rak X-17,150000,./covers/B0495.svg,Katalog rancangan,3
+B0496,Hukum Pajak: Pelayanan dan Pengguna,Data katalog rancangan,Hukum,SIM-000496,2026,Koleksi rancangan,Rak X-18,150000,./covers/B0496.svg,Katalog rancangan,4
+B0497,Hukum Pajak: Perancangan Sistem,Data katalog rancangan,Hukum,SIM-000497,2026,Koleksi rancangan,Rak X-19,150000,./covers/B0497.svg,Katalog rancangan,2
+B0498,Hukum Pajak: Isu Kontemporer,Data katalog rancangan,Hukum,SIM-000498,2026,Koleksi rancangan,Rak X-20,150000,./covers/B0498.svg,Katalog rancangan,3
+B0499,Keamanan Informasi: Pengantar dan Kerangka Konseptual,Data katalog rancangan,Sistem Informasi,SIM-000499,2026,Koleksi rancangan,Rak Y-01,75000,./covers/B0499.svg,Katalog rancangan,2
+B0500,Keamanan Informasi: Perencanaan dan Strategi,Data katalog rancangan,Sistem Informasi,SIM-000500,2026,Koleksi rancangan,Rak Y-02,75000,./covers/B0500.svg,Katalog rancangan,3
+B0501,Keamanan Informasi: Pencatatan dan Dokumentasi,Data katalog rancangan,Sistem Informasi,SIM-000501,2026,Koleksi rancangan,Rak Y-03,75000,./covers/B0501.svg,Katalog rancangan,4
+B0502,Keamanan Informasi: Analisis Data,Data katalog rancangan,Sistem Informasi,SIM-000502,2026,Koleksi rancangan,Rak Y-04,75000,./covers/B0502.svg,Katalog rancangan,2
+B0503,Keamanan Informasi: Pengukuran Kinerja,Data katalog rancangan,Sistem Informasi,SIM-000503,2026,Koleksi rancangan,Rak Y-05,75000,./covers/B0503.svg,Katalog rancangan,3
+B0504,Keamanan Informasi: Regulasi dan Kepatuhan,Data katalog rancangan,Sistem Informasi,SIM-000504,2026,Koleksi rancangan,Rak Y-06,75000,./covers/B0504.svg,Katalog rancangan,4
+B0505,Keamanan Informasi: Studi Kasus Indonesia,Data katalog rancangan,Sistem Informasi,SIM-000505,2026,Koleksi rancangan,Rak Y-07,75000,./covers/B0505.svg,Katalog rancangan,2
+B0506,Keamanan Informasi: Praktik Lapangan,Data katalog rancangan,Sistem Informasi,SIM-000506,2026,Koleksi rancangan,Rak Y-08,75000,./covers/B0506.svg,Katalog rancangan,3
+B0507,Keamanan Informasi: Manajemen Proses,Data katalog rancangan,Sistem Informasi,SIM-000507,2026,Koleksi rancangan,Rak Y-09,75000,./covers/B0507.svg,Katalog rancangan,4
+B0508,Keamanan Informasi: Pengendalian dan Pengawasan,Data katalog rancangan,Sistem Informasi,SIM-000508,2026,Koleksi rancangan,Rak Y-10,75000,./covers/B0508.svg,Katalog rancangan,2
+B0509,Keamanan Informasi: Pelaporan,Data katalog rancangan,Sistem Informasi,SIM-000509,2026,Koleksi rancangan,Rak Y-11,75000,./covers/B0509.svg,Katalog rancangan,3
+B0510,Keamanan Informasi: Inovasi Digital,Data katalog rancangan,Sistem Informasi,SIM-000510,2026,Koleksi rancangan,Rak Y-12,75000,./covers/B0510.svg,Katalog rancangan,4
+B0511,Keamanan Informasi: Metode Kuantitatif,Data katalog rancangan,Sistem Informasi,SIM-000511,2026,Koleksi rancangan,Rak Y-13,75000,./covers/B0511.svg,Katalog rancangan,2
+B0512,Keamanan Informasi: Metode Kualitatif,Data katalog rancangan,Sistem Informasi,SIM-000512,2026,Koleksi rancangan,Rak Y-14,75000,./covers/B0512.svg,Katalog rancangan,3
+B0513,Keamanan Informasi: Manajemen Risiko,Data katalog rancangan,Sistem Informasi,SIM-000513,2026,Koleksi rancangan,Rak Y-15,75000,./covers/B0513.svg,Katalog rancangan,4
+B0514,Keamanan Informasi: Evaluasi Kebijakan,Data katalog rancangan,Sistem Informasi,SIM-000514,2026,Koleksi rancangan,Rak Y-16,75000,./covers/B0514.svg,Katalog rancangan,2
+B0515,Keamanan Informasi: Transparansi dan Akuntabilitas,Data katalog rancangan,Sistem Informasi,SIM-000515,2026,Koleksi rancangan,Rak Y-17,75000,./covers/B0515.svg,Katalog rancangan,3
+B0516,Keamanan Informasi: Pelayanan dan Pengguna,Data katalog rancangan,Sistem Informasi,SIM-000516,2026,Koleksi rancangan,Rak Y-18,75000,./covers/B0516.svg,Katalog rancangan,4
+B0517,Keamanan Informasi: Perancangan Sistem,Data katalog rancangan,Sistem Informasi,SIM-000517,2026,Koleksi rancangan,Rak Y-19,75000,./covers/B0517.svg,Katalog rancangan,2
+B0518,Keamanan Informasi: Isu Kontemporer,Data katalog rancangan,Sistem Informasi,SIM-000518,2026,Koleksi rancangan,Rak Y-20,75000,./covers/B0518.svg,Katalog rancangan,3
+B0519,Evaluasi Program: Pengantar dan Kerangka Konseptual,Data katalog rancangan,Metodologi,SIM-000519,2026,Koleksi rancangan,Rak Z-01,90000,./covers/B0519.svg,Katalog rancangan,2
+B0520,Evaluasi Program: Perencanaan dan Strategi,Data katalog rancangan,Metodologi,SIM-000520,2026,Koleksi rancangan,Rak Z-02,90000,./covers/B0520.svg,Katalog rancangan,3
+B0521,Evaluasi Program: Pencatatan dan Dokumentasi,Data katalog rancangan,Metodologi,SIM-000521,2026,Koleksi rancangan,Rak Z-03,90000,./covers/B0521.svg,Katalog rancangan,4
+B0522,Evaluasi Program: Analisis Data,Data katalog rancangan,Metodologi,SIM-000522,2026,Koleksi rancangan,Rak Z-04,90000,./covers/B0522.svg,Katalog rancangan,2
+B0523,Evaluasi Program: Pengukuran Kinerja,Data katalog rancangan,Metodologi,SIM-000523,2026,Koleksi rancangan,Rak Z-05,90000,./covers/B0523.svg,Katalog rancangan,3
+B0524,Evaluasi Program: Regulasi dan Kepatuhan,Data katalog rancangan,Metodologi,SIM-000524,2026,Koleksi rancangan,Rak Z-06,90000,./covers/B0524.svg,Katalog rancangan,4
+B0525,Evaluasi Program: Studi Kasus Indonesia,Data katalog rancangan,Metodologi,SIM-000525,2026,Koleksi rancangan,Rak Z-07,90000,./covers/B0525.svg,Katalog rancangan,2
+B0526,Evaluasi Program: Praktik Lapangan,Data katalog rancangan,Metodologi,SIM-000526,2026,Koleksi rancangan,Rak Z-08,90000,./covers/B0526.svg,Katalog rancangan,3
+B0527,Evaluasi Program: Manajemen Proses,Data katalog rancangan,Metodologi,SIM-000527,2026,Koleksi rancangan,Rak Z-09,90000,./covers/B0527.svg,Katalog rancangan,4
+B0528,Evaluasi Program: Pengendalian dan Pengawasan,Data katalog rancangan,Metodologi,SIM-000528,2026,Koleksi rancangan,Rak Z-10,90000,./covers/B0528.svg,Katalog rancangan,2
+B0529,Evaluasi Program: Pelaporan,Data katalog rancangan,Metodologi,SIM-000529,2026,Koleksi rancangan,Rak Z-11,90000,./covers/B0529.svg,Katalog rancangan,3
+B0530,Evaluasi Program: Inovasi Digital,Data katalog rancangan,Metodologi,SIM-000530,2026,Koleksi rancangan,Rak Z-12,90000,./covers/B0530.svg,Katalog rancangan,4
+B0531,Evaluasi Program: Metode Kuantitatif,Data katalog rancangan,Metodologi,SIM-000531,2026,Koleksi rancangan,Rak Z-13,90000,./covers/B0531.svg,Katalog rancangan,2
+B0532,Evaluasi Program: Metode Kualitatif,Data katalog rancangan,Metodologi,SIM-000532,2026,Koleksi rancangan,Rak Z-14,90000,./covers/B0532.svg,Katalog rancangan,3
+B0533,Evaluasi Program: Manajemen Risiko,Data katalog rancangan,Metodologi,SIM-000533,2026,Koleksi rancangan,Rak Z-15,90000,./covers/B0533.svg,Katalog rancangan,4
+B0534,Evaluasi Program: Evaluasi Kebijakan,Data katalog rancangan,Metodologi,SIM-000534,2026,Koleksi rancangan,Rak Z-16,90000,./covers/B0534.svg,Katalog rancangan,2
+B0535,Evaluasi Program: Transparansi dan Akuntabilitas,Data katalog rancangan,Metodologi,SIM-000535,2026,Koleksi rancangan,Rak Z-17,90000,./covers/B0535.svg,Katalog rancangan,3
+B0536,Evaluasi Program: Pelayanan dan Pengguna,Data katalog rancangan,Metodologi,SIM-000536,2026,Koleksi rancangan,Rak Z-18,90000,./covers/B0536.svg,Katalog rancangan,4
+B0537,Evaluasi Program: Perancangan Sistem,Data katalog rancangan,Metodologi,SIM-000537,2026,Koleksi rancangan,Rak Z-19,90000,./covers/B0537.svg,Katalog rancangan,2
+B0538,Evaluasi Program: Isu Kontemporer,Data katalog rancangan,Metodologi,SIM-000538,2026,Koleksi rancangan,Rak Z-20,90000,./covers/B0538.svg,Katalog rancangan,3

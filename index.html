@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="theme-color" content="#eef5fb" />
+  <meta name="description" content="SIMPER, Sistem Informasi Perpustakaan PKN STAN." />
+  <title>SIMPER | Sistem Informasi Perpustakaan PKN STAN</title>
+  <link rel="icon" href="./favicon.svg" type="image/svg+xml" />
+  <link rel="icon" href="./icon-48.png" sizes="48x48" type="image/png" />
+  <link rel="apple-touch-icon" href="./icon-192.png" />
+  <link rel="manifest" href="./manifest.webmanifest" />
+  <link rel="stylesheet" href="./styles.css" />
+</head>
+<body>
+  <div id="startup" class="startup" aria-label="Memuat SIMPER"><img src="./favicon.svg" alt=""><span>Menyiapkan perpustakaan…</span><i></i></div>
+  <div id="loginPage" class="login-page">
+    <div class="login-intro">
+      <div class="brand"><img class="brand-logo" src="./logo.svg" alt="SIMPER PKN STAN"></div>
+      <div><p class="eyebrow">SISTEM INFORMASI PERPUSTAKAAN</p><h1>Akses perpustakaan<br>dalam satu tempat.</h1><p>Temukan koleksi, pantau pinjaman, dan pesan ruang diskusi melalui layanan perpustakaan.</p></div>
+      <span class="login-campus">POLITEKNIK KEUANGAN NEGARA STAN</span>
+    </div>
+    <div class="login-area"><div class="login-card"><p class="eyebrow">SELAMAT DATANG</p><h2>Masuk ke SIMPER</h2><p class="login-subtitle">Gunakan NIM dan kata sandi untuk mengakses layanan.</p>
+      <form id="loginForm">
+        <div class="field"><label for="loginNim">NIM</label><input id="loginNim" name="nim" inputmode="numeric" pattern="[0-9]{10}" maxlength="10" autocomplete="username" placeholder="Masukkan NIM" required></div>
+        <div class="field"><label for="loginPassword">KATA SANDI</label><input id="loginPassword" name="password" type="password" autocomplete="current-password" placeholder="Masukkan kata sandi" required></div>
+        <p id="loginError" class="login-error" role="alert" aria-live="polite"></p>
+        <button class="button login-submit" type="submit">Masuk</button>
+      </form><div class="login-help">Butuh bantuan akses? Hubungi petugas perpustakaan.</div>
+    </div><div class="login-foot">SIMPER · PKN STAN</div></div>
+  </div>
+  <div id="appShell" class="shell" hidden>
+    <header class="masthead">
+      <div class="brandline">
+        <div class="brand"><img class="brand-logo" src="./logo.svg" alt="SIMPER PKN STAN"></div>
+        <div class="header-actions"><div class="profile"><strong id="profileName"></strong><small id="profileRole"></small></div><button id="logoutButton" class="button secondary small" type="button">Keluar</button></div>
+      </div>
+      <div class="headline-row"><div><p class="eyebrow">SISTEM INFORMASI PERPUSTAKAAN · PKN STAN</p><h1 id="pageTitle">Ikhtisar Perpustakaan</h1><p id="pageSub" class="subtitle">Kelola koleksi, pinjaman, dan ruang diskusi dalam satu tampilan.</p></div><div class="date-block"><span>HARI INI</span><strong id="todayLabel"></strong></div></div>
+      <nav id="nav" class="nav" aria-label="Navigasi utama"></nav>
+    </header>
+    <main id="app" tabindex="-1"></main>
+    <footer><span>SIMPER · Sistem Informasi Perpustakaan PKN STAN</span><span>© 2026 SIMPER</span></footer>
+  </div>
+  <div id="toast" class="toast" role="status" aria-live="polite"></div>
+  <script type="module" src="./src.js"></script>
+</body>
+</html>

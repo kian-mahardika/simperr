@@ -1,0 +1,8 @@
+[functions.payment-webhook]
+verify_jwt = false
+[functions.create-payment]
+verify_jwt = true
+[functions.payment-status]
+verify_jwt = true
+[functions.register-member]
+verify_jwt = true

@@ -1,0 +1,14 @@
+{
+  "name": "simper-pkn-stan",
+  "version": "2.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "node scripts/dev-server.mjs",
+    "build": "node scripts/build.mjs",
+    "test": "node scripts/qc.cjs && node scripts/qc-remote.cjs",
+    "start": "node scripts/dev-server.mjs",
+    "check": "npm test && npm run build",
+    "supabase:provision": "node supabase/scripts/provision-users.mjs"
+  }
+}
